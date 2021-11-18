@@ -1,0 +1,2065 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="407.19583mm"
+   height="269.83182mm"
+   viewBox="0 0 407.19583 269.83182"
+   version="1.1"
+   id="svg1098"
+   inkscape:version="1.2-dev (a2923e6, 2021-11-06)"
+   sodipodi:docname="mat3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1100"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:blackoutopacity="0.0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71101001"
+     inkscape:cx="823.47645"
+     inkscape:cy="703.22498"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs1095">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient68073">
+      <stop
+         style="stop-color:#55d400;stop-opacity:1;"
+         offset="0"
+         id="stop68069" />
+      <stop
+         style="stop-color:#55d400;stop-opacity:0;"
+         offset="1"
+         id="stop68071" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient38599">
+      <stop
+         style="stop-color:#161651;stop-opacity:1"
+         offset="0"
+         id="stop38595" />
+      <stop
+         style="stop-color:#3e4595;stop-opacity:1"
+         offset="1"
+         id="stop38597" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect172339"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.8968526,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.9295944,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.8140535,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect165135"
+       is_visible="true"
+       lpeversion="1"
+       switcher_size="15"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="inkscape_1.0_and_up"
+       both="false"
+       inverse_width="false"
+       add_other_stroke_width="inkscape_1.0_and_up"
+       crossing_points_vector="" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient145482">
+      <stop
+         style="stop-color:#212179;stop-opacity:1;"
+         offset="0"
+         id="stop145478" />
+      <stop
+         style="stop-color:#212179;stop-opacity:0;"
+         offset="1"
+         id="stop145480" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient136115">
+      <stop
+         style="stop-color:#212178;stop-opacity:1;"
+         offset="0"
+         id="stop136111" />
+      <stop
+         style="stop-color:#212178;stop-opacity:0;"
+         offset="1"
+         id="stop136113" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect81077"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect81071"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient60305">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0"
+         id="stop60301" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop60303" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient58849">
+      <stop
+         style="stop-color:#212178;stop-opacity:1"
+         offset="0"
+         id="stop58845" />
+      <stop
+         style="stop-color:#22222e;stop-opacity:0;"
+         offset="1"
+         id="stop58847" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient42271">
+      <stop
+         style="stop-color:#8787de;stop-opacity:1"
+         offset="0"
+         id="stop42267" />
+      <stop
+         style="stop-color:#d5d5ff;stop-opacity:0;"
+         offset="1"
+         id="stop42269" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect41991"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect23639"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8526"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,9.1763832,0,1 @ F,0,0,1,0,20.922481,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7226"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,9.1763832,0,1 @ F,0,0,1,0,20.922481,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient42271"
+       id="linearGradient42273"
+       x1="203.44847"
+       y1="224.49142"
+       x2="203.44847"
+       y2="99.454414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2664728,0,0,1.3104085,-58.635863,-44.965749)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient58849"
+       id="linearGradient58851"
+       x1="298.43903"
+       y1="151.82922"
+       x2="291.52582"
+       y2="136.90021"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2184409,0,0,1.2184409,-49.911635,-30.555359)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient58849"
+       id="linearGradient59707"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2184409,0,0,1.2184409,-20.680991,-44.486183)"
+       x1="298.43903"
+       y1="151.82922"
+       x2="291.52582"
+       y2="136.90021" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60305"
+       id="linearGradient60307"
+       x1="188.15683"
+       y1="198.81862"
+       x2="188.15683"
+       y2="100.91885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4196071,0,0,1.4529854,-87.549092,-61.1771)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient136115"
+       id="linearGradient136117"
+       x1="75.046196"
+       y1="157.82443"
+       x2="75.046196"
+       y2="126.24104"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2184409,0,0,1.2184409,-49.566022,-30.885334)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient145482"
+       id="linearGradient145484"
+       x1="84.625084"
+       y1="146.52362"
+       x2="84.625084"
+       y2="128.62563"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2184409,0,0,1.2184409,-49.566022,-30.885334)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38599"
+       id="linearGradient38601"
+       x1="305.97366"
+       y1="106.15569"
+       x2="305.60098"
+       y2="97.206108"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67854325,0,0,0.67854325,98.454739,30.077534)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient68073"
+       id="linearGradient68075"
+       x1="305.07538"
+       y1="99.439186"
+       x2="304.80658"
+       y2="102.04085"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.79516617,0,0,0.79516617,62.89495,18.663032)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(23.61437,-17.74124)">
+    <path
+       style="fill:#b4b6c8;fill-opacity:1;stroke-width:24.1276;stop-color:#000000"
+       d="m 1.9588767,93.407507 c 0,0 -7.8097636,-25.612565 32.2206953,-35.450078 C 74.21003,48.11992 90.26638,46.930747 90.26638,46.930747 L 63.164405,87.121895 Z"
+       id="path16102"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="fill:#b4b6c8;fill-opacity:1;stroke-width:24.1276;stop-color:#000000"
+       d="m 357.67212,92.886526 c 0,0 7.80976,-25.612565 -32.2207,-35.450078 -40.03045,-9.837509 -55.84663,-10.476144 -55.84663,-10.476144 l 26.8618,39.64061 z"
+       id="path21142"
+       sodipodi:nodetypes="csccc" />
+    <path
+       id="rect5303"
+       style="fill:#3e4595;fill-opacity:1;stroke-width:24.5965;stop-color:#000000"
+       d="m 106.38597,45.594015 c -19.282654,0 -34.80625,4.525655 -42.716831,11.415755 C 55.758545,63.899859 37.324399,74.992618 15.089067,77.867822 8.9695717,78.659126 3.5486537,83.567835 3.0672217,89.724068 L -5.8844672,197.75006 c -1.0976812,14.03643 8.9849179,28.63188 22.7862882,31.39419 18.261088,3.65491 35.610859,12.23213 54.677899,16.27197 3.288,8.63545 159.57547,27.1419 216.7981,-1.02003 0,0 36.41743,-11.59703 54.67854,-15.25194 13.80136,-2.76231 23.94906,-17.363 22.78627,-31.39419 L 356.89032,89.724068 c -0.51,-6.153934 -5.90234,-11.064942 -12.02184,-11.856246 C 322.63315,74.992618 304.199,63.899859 296.28843,57.009758 288.37782,50.11967 272.85423,45.594015 253.57157,45.594015 Z"
+       sodipodi:nodetypes="scsccsccsssscss" />
+    <circle
+       style="fill:url(#linearGradient38601);fill-opacity:1;stroke-width:16.5406;stop-color:#000000"
+       id="circle38533"
+       cx="305.12399"
+       cy="99.238495"
+       r="2.9473479" />
+    <path
+       id="path41987"
+       style="fill:url(#linearGradient42273);fill-opacity:1;stroke-width:25.51;stop-color:#000000"
+       d="m 180.1289,61.59196 c -28.81574,0.412227 -57.50494,3.566163 -86.069945,7.371825 -8.657928,2.062319 -15.171549,10.944987 -14.920851,20.108521 -2.90121,38.843314 -3.578102,77.824744 -4.316493,116.769794 0.412465,9.40602 4.668914,18.84045 11.570178,25.05035 2.404505,2.24195 5.26126,3.82506 8.31698,5.01455 4.069411,1.56524 8.290961,2.71433 12.476981,4.03318 20.12755,5.81795 41.02028,8.63664 61.88459,9.54069 23.15135,0.98497 46.35544,-0.72898 69.01876,-5.81242 10.03797,-2.3088 20.04148,-5.12175 29.66752,-9.03127 4.80782,-2.10054 8.85897,-5.76444 11.84234,-10.10155 3.10215,-4.48582 5.25048,-9.55071 6.16757,-15.00452 0.90189,-6.36535 0.11183,-12.83889 0.17337,-19.28094 -0.71183,-34.55088 -1.4561,-69.13534 -5.07896,-103.509159 C 278.9168,77.650945 270.90999,70.422123 261.97137,69.530405 234.98903,64.219417 207.61486,61.317749 180.1289,61.59196 Z" />
+    <path
+       style="fill:#22222e;fill-opacity:1;stroke-width:25.51;stop-color:#000000"
+       d="m 96.450973,72.341505 c 61.412417,-7.581727 103.905567,-11.47714 167.750707,1.45745 6.86387,1.390575 13.06719,8.490546 13.75095,15.692957 3.73061,39.297118 4.29494,77.179508 4.97728,115.114618 0.19521,10.85328 -7.20427,23.69937 -17.0307,27.48818 -58.44208,22.53367 -130.83287,15.80226 -171.029133,0.45427 -9.828551,-3.7528 -16.924091,-17.08743 -16.665693,-27.93989 0.91723,-38.52205 1.308722,-76.43654 4.555527,-117.650761 0.568192,-7.212592 6.745787,-13.75939 13.691062,-14.616824 z"
+       id="path21207"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect59709"
+       style="fill:url(#linearGradient60307);fill-opacity:1;stroke-width:27.7689;stop-color:#000000"
+       d="m 112.75691,79.782343 c -3.74349,0.0943 -7.50895,-0.200293 -11.23765,0.187305 -5.512254,1.046193 -9.794408,6.721148 -9.183417,12.465015 -0.06766,41.665177 -0.03523,83.332967 0.0011,124.996547 0.09043,6.22684 5.919539,11.54752 11.955387,11.08811 26.41214,-0.0241 52.82712,0.0346 79.24038,0.0131 24.63251,-0.0234 49.26623,0.009 73.89801,-0.0501 6.32913,0.20152 11.85461,-6.10798 11.21353,-12.5023 0.002,-41.89414 0.0761,-83.79043 -0.0305,-125.683251 -0.44895,-6.084385 -6.27478,-11.106558 -12.21471,-10.50027 -47.88089,-0.04213 -95.76173,-0.02354 -143.64262,-0.01453 z" />
+    <rect
+       style="fill:#101013;fill-opacity:1;stroke-width:27.7689;stop-color:#000000"
+       id="rect40944"
+       width="170.35284"
+       height="142.60037"
+       x="95.309715"
+       y="82.850792"
+       ry="8.6034842" />
+    <path
+       id="path61189"
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:24.1276;stop-color:#000000"
+       d="m 269.55928,46.935765 5.3162,7.050499 c 7.51262,1.16132 23.48238,4.028154 50.57574,10.686366 24.84921,6.106703 31.26204,18.29064 32.5534,26.654838 0.93106,-5.68585 1.55415,-25.508789 -32.5534,-33.890738 -40.03043,-9.837509 -55.89194,-10.500965 -55.89194,-10.500965 z"
+       sodipodi:nodetypes="ccscsc" />
+    <path
+       id="path61189-3"
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:24.1276;stop-color:#000000"
+       d="m 90.265714,46.921843 -5.362391,7.064422 C 77.390697,55.147584 61.420928,58.014418 34.327566,64.67263 9.4783647,70.779333 3.0655277,82.963269 1.7741747,91.32747 0.84311544,85.641618 0.22001694,65.818678 34.327566,57.436731 74.358009,47.59922 90.265714,46.921843 90.265714,46.921843 Z"
+       sodipodi:nodetypes="ccscsc" />
+    <path
+       id="path41524"
+       style="fill:#8787de;fill-opacity:1;stroke-width:24.5965;stop-color:#000000"
+       d="m 106.38579,45.749854 c -19.282655,0 -34.805927,4.525397 -42.716509,11.415498 C 55.758687,64.055439 37.324215,75.148457 15.088883,78.02366 8.9693877,78.814966 3.5484697,83.723675 3.0670357,89.879908 L -5.8846506,197.9059 c -0.1722439,2.20254 -0.068683,4.41902 0.2808213,6.60121 L 3.0670357,99.869255 C 3.5484697,93.713022 8.9693877,88.804312 15.088883,88.013007 37.324215,85.137804 55.758687,74.044786 63.669281,67.154698 71.579863,60.264598 87.103135,55.739201 106.38579,55.739201 H 253.5714 c 19.28263,0 34.80651,4.525407 42.71711,11.415497 7.91057,6.890101 26.34444,17.983106 48.57977,20.858309 6.1195,0.791305 11.51187,5.702317 12.02184,11.856248 l 8.67845,104.720345 c 0.3559,-2.20916 0.45871,-4.4535 0.27389,-6.6837 L 356.89012,89.879908 C 356.38015,83.725974 350.98778,78.814966 344.86828,78.02366 322.63295,75.148457 304.19908,64.055452 296.28851,57.165352 288.37791,50.275264 272.85403,45.749854 253.5714,45.749854 Z" />
+    <path
+       id="path59701"
+       style="fill:url(#linearGradient59707);fill-opacity:1;stroke-width:18.2157;stop-color:#000000"
+       d="m 333.95433,119.55834 c -4.71336,0.22073 -9.1389,3.3914 -10.75893,7.84132 -1.99079,4.95588 -0.17007,11.08026 4.18624,14.15925 3.72605,2.78518 9.05868,3.13132 13.10067,0.81889 4.95186,-2.61456 7.47342,-8.92686 5.75385,-14.24313 -1.39679,-4.5637 -5.63244,-8.13929 -10.42239,-8.5256 -0.61602,-0.0727 -1.24031,-0.0855 -1.85944,-0.0507 z" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 295.36311,183.73096 45.423,-15.39346 -1.47993,3.11587 -45.6981,16.13028 z"
+       id="path79408" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 295.91482,182.61297 45.423,-15.39348 -1.47994,3.11587 -45.69809,16.13028 z"
+       id="path67247" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 295.58005,191.04288 45.423,-15.39347 -1.47993,3.11587 -45.6981,16.13028 z"
+       id="path80760" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 296.13176,189.92488 45.423,-15.39347 -1.47993,3.11587 -45.6981,16.13028 z"
+       id="path80762" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 295.78915,198.67267 45.423,-15.39347 -1.47993,3.11587 -45.6981,16.13028 z"
+       id="path80764" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 296.34086,197.55467 45.423,-15.39347 -1.47993,3.11587 -45.6981,16.13028 z"
+       id="path80766" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 296.00731,205.83362 45.42299,-15.39347 -1.47993,3.11587 -45.69809,16.13028 z"
+       id="path80768" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 296.55902,204.71562 45.42299,-15.39348 -1.47993,3.11588 -45.69809,16.13028 z"
+       id="path80770" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 296.00731,213.5483 45.42299,-15.39347 -1.47993,3.11587 -45.69809,16.13028 z"
+       id="path80772" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 296.55902,212.4303 45.42299,-15.39347 -1.47993,3.11587 -45.69809,16.13028 z"
+       id="path80774" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 64.380349,183.73096 -45.423002,-15.39346 1.47993,3.11587 45.698102,16.13028 z"
+       id="path80776" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.828639,182.61297 -45.423002,-15.39348 1.479942,3.11587 45.69809,16.13028 z"
+       id="path80778" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 64.163406,191.04288 -45.423003,-15.39347 1.479931,3.11587 45.698102,16.13028 z"
+       id="path80780" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.611696,189.92488 -45.423003,-15.39347 1.479931,3.11587 45.698102,16.13028 z"
+       id="path80782" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.954309,198.67267 -45.423002,-15.39347 1.47993,3.11587 45.698102,16.13028 z"
+       id="path80784" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.402599,197.55467 -45.423002,-15.39347 1.47993,3.11587 45.698102,16.13028 z"
+       id="path80786" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.736147,205.83362 -45.42299,-15.39347 1.47993,3.11587 45.69809,16.13028 z"
+       id="path80788" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.184437,204.71562 -45.42299,-15.39348 1.47993,3.11588 45.69809,16.13028 z"
+       id="path80790" />
+    <path
+       style="fill:#8282dd;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.736147,213.5483 -45.42299,-15.39347 1.47993,3.11587 45.69809,16.13028 z"
+       id="path80792" />
+    <path
+       style="fill:#161651;fill-opacity:1;stroke-width:21.8223;stop-color:#000000"
+       d="m 63.184437,212.4303 -45.42299,-15.39347 1.47993,3.11587 45.69809,16.13028 z"
+       id="path80794" />
+    <path
+       id="path101724"
+       style="fill:#2b2b3b;fill-opacity:1;stroke-width:25.51;stop-color:#000000"
+       d="m 184.36052,65.100759 c -27.9843,-0.02363 -55.26972,2.963336 -87.895067,6.991127 -6.945275,0.857433 -13.123266,7.404168 -13.691467,14.616764 -3.246808,41.21423 -3.637868,79.1292 -4.555096,117.65125 -0.01815,0.76163 0.0036,1.53606 0.05629,2.31796 0.876087,-37.65159 1.323332,-74.80771 4.498817,-115.116591 0.568201,-7.212596 6.746188,-13.759331 13.691463,-14.616767 61.41242,-7.581727 103.90548,-11.477313 167.75062,1.457276 6.86386,1.390573 13.06726,8.491055 13.751,15.693469 3.63871,38.328623 4.26507,75.311193 4.92686,112.309713 0.0455,-0.68866 0.0625,-1.37189 0.0504,-2.04777 -0.68235,-37.9351 -1.24663,-75.81745 -4.97727,-115.114559 -0.68375,-7.202423 -6.88715,-14.30222 -13.75102,-15.692793 -29.92739,-6.063089 -55.16353,-8.428231 -79.85556,-8.449079 z" />
+    <path
+       id="rect114602"
+       style="fill:url(#linearGradient136117);fill-opacity:1;stroke-width:12.9573;stop-color:#000000"
+       d="m 46.709849,112.31241 c -3.751654,0.0414 -7.513554,-0.0966 -11.25868,0.0833 -2.732524,0.46265 -4.689129,3.27441 -4.338361,5.99605 0.01809,12.88837 -0.04873,25.78136 0.04734,38.6668 0.280872,2.87175 3.212147,5.01078 6.032064,4.63814 3.657048,-0.0503 7.327764,0.12063 10.975776,-0.11112 2.744459,-0.49853 4.611834,-3.38517 4.234316,-6.09849 -0.01808,-12.84473 0.04875,-25.69411 -0.04734,-38.5359 -0.276948,-2.71347 -2.941172,-4.86471 -5.645116,-4.6388 z" />
+    <path
+       id="rect136451"
+       style="fill:url(#linearGradient145484);fill-opacity:1;stroke-width:12.9574;stop-color:#000000"
+       d="m 60.759996,126.36018 c -13.019722,0.0183 -26.044025,-0.0492 -39.060866,0.0474 -2.869781,0.28656 -5.005838,3.2127 -4.633399,6.03198 0.05483,3.6599 -0.124079,7.33515 0.112949,10.985 0.502484,2.73969 3.386794,4.60205 6.096646,4.22509 12.843933,-0.018 25.692507,0.0487 38.533519,-0.0473 2.81811,-0.27791 4.972857,-3.126 4.641282,-5.91021 -0.04361,-3.6751 0.101155,-7.36118 -0.08817,-11.02927 -0.46856,-2.55695 -3.008674,-4.51577 -5.601972,-4.30262 z" />
+    <rect
+       style="fill:#8787de;fill-opacity:1;stroke-width:12.9574;stop-color:#000000"
+       id="rect107801"
+       width="18.709082"
+       height="46.804897"
+       x="127.65095"
+       y="-65.159286"
+       ry="4.0338502"
+       transform="rotate(90)" />
+    <path
+       id="rect108608"
+       style="fill:#adade8;fill-opacity:1;stroke-width:12.9574;stop-color:#000000"
+       d="m 22.388379,127.65117 c -2.234755,0 -4.034146,1.79876 -4.034146,4.03351 v 1.34241 c 0,-2.23475 1.799391,-4.03415 4.034146,-4.03415 H 61.12551 c 2.234752,0 4.033514,1.7994 4.033514,4.03415 v -1.34241 c 0,-2.23475 -1.798762,-4.03351 -4.033514,-4.03351 z" />
+    <rect
+       style="fill:#8787de;fill-opacity:1;stroke-width:12.9573;stop-color:#000000"
+       id="rect103382"
+       width="18.709082"
+       height="46.804897"
+       x="32.402287"
+       y="113.60304"
+       ry="4.0338502" />
+    <path
+       id="rect107803"
+       style="fill:#adade8;fill-opacity:1;stroke-width:12.9573;stop-color:#000000"
+       d="m 36.436428,113.60311 c -2.234752,1e-5 -4.034147,1.79877 -4.034147,4.03352 v 2.31773 c 0,-2.23475 1.799395,-4.03351 4.034147,-4.03351 h 10.64103 c 2.234755,0 4.034146,1.79876 4.034149,4.03351 v -2.31773 c -3e-6,-2.23475 -1.799394,-4.03352 -4.034149,-4.03352 z" />
+    <a
+       id="linktophy"
+       target="_parent"
+       xlink:href="PhyQn.html">
+      <rect
+         style="fill:#8787de;fill-opacity:1;stroke-width:26.467;stop-color:#000000"
+         id="rect145987"
+         width="18.446617"
+         height="15.617969"
+         x="32.513458"
+         y="115.86594"
+         ry="3.9499667"
+         inkscape:label="Physics" />
+      <g
+         id="g170100"
+         transform="matrix(1.2184409,0,0,1.2184409,-49.566022,-30.885334)">
+        <path
+           id="ellipse164824"
+           style="fill:none;stroke:#222278;stroke-width:0.563658;stop-color:#000000"
+           d="m 73.383506,127.62258 a 4.5325501,1.7315822 60 0 0 3.76587,3.05952 4.5325501,1.7315822 60 0 0 -0.766682,-4.7911 4.5325501,1.7315822 60 0 0 -3.765869,-3.05951 4.5325501,1.7315822 60 0 0 0.766681,4.79109 z m 1.499595,0.86579 a 4.5325501,1.7315822 0 0 1 -4.532549,-1.73158 4.5325501,1.7315822 0 0 1 4.532552,-1.73159 4.5325501,1.7315822 0 0 1 4.532549,1.73159 4.5325501,1.7315822 0 0 1 -4.532552,1.73158 z m 1.499591,-0.86579 a 1.7315822,4.5325501 30 0 1 -3.765865,3.05952 1.7315822,4.5325501 30 0 1 0.76667,-4.79111 1.7315822,4.5325501 30 0 1 3.765879,-3.0595 1.7315822,4.5325501 30 0 1 -0.766684,4.79109 z" />
+        <circle
+           style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.563658;stroke-opacity:1;stop-color:#000000"
+           id="path165954"
+           cx="74.909264"
+           cy="126.74863"
+           r="0.44546896" />
+      </g>
+    </a>
+    <a
+       id="linktohome"
+       target="_parent"
+       xlink:href="MimamsaHome.html">
+      <g
+         id="homebutton"
+         transform="matrix(1.2184409,0,0,1.2184409,-49.566022,-30.885334)">
+        <rect
+           style="fill:#8787de;fill-opacity:1;stroke-width:20.4645;stop-color:#000000"
+           id="rect170105"
+           width="12.434084"
+           height="13.852274"
+           x="55.884895"
+           y="131.54645"
+           ry="3.503402"
+           inkscape:label="Physics" />
+        <g
+           id="g173139"
+           inkscape:label="homebutton">
+          <path
+             id="rect170161"
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.400807;stroke-opacity:1;stop-color:#000000"
+             d="m 62.116408,134.24294 a 0.6552979,0.39367817 0 0 0 -0.568957,0.19533 l -1.452623,1.49604 -1.631942,1.68155 a 0.44933729,0.26994485 0 0 0 0.386021,0.40566 l 0.108522,5.1e-4 c -0.03711,0.14293 -0.05788,0.29947 -0.05788,0.46354 v 2.34921 c 0,0.68297 0.353822,1.233 0.793232,1.233 h 1.382344 v -1.29036 c 0,-0.86003 0.432552,-1.02319 0.969968,-1.02319 0.537419,0 0.970484,0.16316 0.970484,1.02319 v 1.29036 h 1.378209 c 0.439412,0 0.793234,-0.55003 0.793234,-1.233 v -2.34921 c 0,-0.15783 -0.01925,-0.30853 -0.05374,-0.447 l 0.208257,5.2e-4 a 0.44171285,0.26536435 0 0 0 0.385508,-0.39739 l -0.879017,-0.92398 v -1.62522 c 0,-0.34015 -0.168749,-0.61392 -0.378788,-0.61392 -0.21004,0 -0.379304,0.27377 -0.379304,0.61392 v 0.82837 l -1.40715,-1.47949 a 0.6552979,0.39367817 0 0 0 -0.566375,-0.19844 z" />
+        </g>
+      </g>
+    </a>
+    <a
+       id="linktochem"
+       target="_parent"
+       xlink:href="ChemQn.html">
+      <g
+         id="chembutton"
+         inkscape:label="Chembutton"
+         transform="matrix(1.2184409,0,0,1.2184409,-49.566022,-30.885334)">
+        <rect
+           style="fill:#8787de;fill-opacity:1;stroke-width:21.722;stop-color:#000000"
+           id="rect189724"
+           width="15.139525"
+           height="12.817994"
+           x="67.364349"
+           y="144.27637"
+           ry="3.2418206"
+           inkscape:label="Physics" />
+        <g
+           id="g176739"
+           transform="translate(-1.5679707)">
+          <path
+             id="path173730"
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:1.26937;stroke-opacity:1;stop-color:#000000"
+             d="m 382.53516,500.18164 c -0.60332,-0.002 -1.16088,0.2883 -1.46485,0.76172 l -2.23047,3.46875 a 9.9131859,9.3666864 0 0 1 3.66016,7.26758 9.9131859,9.3666864 0 0 1 -0.61719,3.24023 l 8.96289,0.0371 c 0.87749,0.003 1.43074,-0.8562 0.99414,-1.54687 l -2.73242,-4.33985 -5.11328,-8.11523 c -0.29934,-0.47566 -0.8553,-0.77121 -1.45898,-0.77344 z"
+             transform="matrix(0.26458333,0,0,0.26458333,-23.61437,17.74124)" />
+          <rect
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.460855;stroke-opacity:1;stop-color:#000000"
+             id="rect173258"
+             width="0.64687538"
+             height="2.8963819"
+             x="74.642601"
+             y="148.95445"
+             ry="0.075037226" />
+          <ellipse
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.370303;stroke-opacity:1;stop-color:#000000"
+             id="path173520"
+             cx="74.966042"
+             cy="153.12318"
+             rx="2.0101488"
+             ry="1.8993322" />
+          <rect
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.470926;stroke-opacity:1;stop-color:#000000"
+             id="rect175628"
+             width="0.45743275"
+             height="4.2768679"
+             x="77.36042"
+             y="147.82501"
+             ry="0.11080178" />
+          <rect
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.00218798;stroke-opacity:1;stop-color:#000000"
+             id="rect177050"
+             width="1.3589338"
+             height="0.44327098"
+             x="75.341698"
+             y="147.52557"
+             ry="0.15367179"
+             transform="translate(1.5679706)" />
+          <rect
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.00231468;stroke-opacity:1;stop-color:#000000"
+             id="rect177260"
+             width="1.521306"
+             height="0.44314429"
+             x="72.637413"
+             y="148.51048"
+             ry="0.15362786"
+             transform="translate(1.5679706)" />
+        </g>
+      </g>
+    </a>
+    <a
+       id="linktobio"
+       target="_parent"
+       xlink:href="BioQn.html">
+      <g
+         id="biobutton">
+        <g
+           id="g191243-3"
+           transform="matrix(1.2184409,0,0,1.2184409,-18.367805,-30.885334)">
+          <rect
+             style="fill:#8787de;fill-opacity:1;stroke-width:20.4645;stop-color:#000000"
+             id="rect170105-6"
+             width="12.434084"
+             height="13.852274"
+             x="55.884895"
+             y="131.54645"
+             ry="3.503402"
+             inkscape:label="Physics" />
+          <g
+             id="g173139-7"
+             inkscape:label="homebutton" />
+        </g>
+        <g
+           id="g191235"
+           inkscape:label="biobutton"
+           transform="matrix(1.2184409,0,0,1.2184409,-49.566022,-30.885334)">
+          <g
+             id="g191225">
+            <path
+               id="rect177625"
+               style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.00974857;stroke-opacity:1;stop-color:#000000"
+               d="m 426.44141,437.30859 c -2.53447,0.0157 -5.04628,1.09515 -6.83008,3.18164 l -8.63672,10.09961 c -3.26181,3.8153 -2.8153,9.51359 1,12.77539 3.8153,3.26181 9.51163,2.8153 12.77344,-1 l 8.63672,-10.09961 c 3.2618,-3.81529 2.81529,-9.51358 -1,-12.77539 -1.72881,-1.478 -3.84337,-2.19463 -5.94336,-2.18164 z m 0.26367,2.00782 c 4.86995,0.0312 8.34071,5.48526 6.1875,10 -2.73356,4.02119 -6.10206,7.65319 -9.35547,11.2832 -2.48255,3.79483 -8.30525,3.75193 -11.11328,0.38086 -3.33758,-3.60246 -0.87035,-8.798 2.17187,-11.67188 3.75974,-3.30156 5.89183,-9.20048 11.38086,-9.95703 0.24577,-0.0255 0.48901,-0.0367 0.72852,-0.0351 z"
+               transform="matrix(0.26458333,0,0,0.26458333,-23.61437,17.74124)" />
+            <circle
+               style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.00974856;stroke-opacity:1;stop-color:#000000"
+               id="path179271"
+               cx="86.80616"
+               cy="138.51009"
+               r="0.89593428" />
+            <circle
+               style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#222278;stroke-width:0.163327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+               id="circle188939"
+               cx="88.399071"
+               cy="137.66444"
+               r="0.4831835" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#222278;stroke-width:0.163327;stroke-opacity:1;stop-color:#000000"
+               id="circle189241"
+               cx="88.740959"
+               cy="135.48102"
+               r="0.63238072" />
+            <circle
+               style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#222278;stroke-width:0.163327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+               id="circle189393"
+               cx="90.288139"
+               cy="135.4558"
+               r="0.34361786" />
+            <path
+               style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#222278;stroke-width:0.359329;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+               d="m 85.633222,140.20519 c 0,0 -1.676596,3.27647 0.719151,2.21885 2.395746,-1.05761 4.520313,-3.5648 4.844501,-1.9266 0.324192,1.6382 -2.119992,3.92728 -2.119992,3.92728"
+               id="path189863"
+               sodipodi:nodetypes="cssc" />
+          </g>
+        </g>
+      </g>
+    </a>
+    <path
+       id="circle51818"
+       style="fill:url(#linearGradient58851);fill-opacity:1;stroke-width:18.2157;stop-color:#000000"
+       d="m 304.72368,133.48915 c -4.71337,0.22074 -9.1389,3.39141 -10.75893,7.84133 -1.9908,4.95587 -0.17007,11.08026 4.18623,14.15925 3.72606,2.78518 9.05869,3.13132 13.10068,0.81889 4.95185,-2.61456 7.47342,-8.92686 5.75384,-14.24313 -1.39678,-4.56371 -5.63243,-8.13929 -10.42238,-8.5256 -0.61602,-0.0727 -1.24031,-0.0855 -1.85944,-0.0507 z" />
+    <a
+       id="a10173"
+       href="mat4.svg"
+       transform="matrix(1.2184409,0,0,1.2184409,-49.566022,-30.885334)">
+      <g
+         id="g9914">
+        <circle
+           style="fill:#8787de;fill-opacity:1;stroke-width:14.95;stop-color:#000000"
+           id="circle51810"
+           cx="291.56628"
+           cy="144.62656"
+           r="8.9529333" />
+        <path
+           id="path51812"
+           style="fill:#afafe9;fill-opacity:1;stroke-width:14.95;stop-color:#000000"
+           d="m 291.5664,135.60241 a 8.9529327,8.9529327 0 0 0 -8.95301,8.953 8.9529327,8.9529327 0 0 0 0.0382,0.78497 8.9529327,8.9529327 0 0 1 8.91478,-8.16726 8.9529327,8.9529327 0 0 1 8.91633,8.15244 8.9529327,8.9529327 0 0 0 0.0367,-0.77015 8.9529327,8.9529327 0 0 0 -8.95301,-8.953 z" />
+        <g
+           id="g243573">
+          <path
+             id="path191755"
+             style="fill:#222278;fill-opacity:1;stroke:#222278;stroke-width:0.715827;stroke-opacity:1;stop-color:#000000"
+             d="m 297.52448,145.71559 c 0.001,-0.31742 -0.1737,-0.61147 -0.45954,-0.7714 l -3.51963,-1.96944 -3.95606,-2.21257 c -0.42209,-0.23548 -0.95177,0.055 -0.95438,0.52337 l -0.0415,8.80265 c -0.002,0.46166 0.51744,0.75236 0.93491,0.52266 l 7.52918,-4.12735 c 0.28752,-0.15752 0.46551,-0.45029 0.46685,-0.7679 z"
+             sodipodi:nodetypes="cccccccccc">
+            <animate
+               attributeName="fill"
+               from="#222278"
+               to="#3e4595"
+               dur="0.5s"
+               begin="1s"
+               calcMode="discrete"
+               repeatCount="indefinite" />
+            <animate
+               attributeName="stroke"
+               from="#222278"
+               to="#3e4595"
+               dur="0.5s"
+               begin="1s"
+               calcMode="discrete"
+               repeatCount="indefinite" />
+          </path>
+          <path
+             id="path229831"
+             style="fill:#afafe9;fill-opacity:1;stroke:#afafe9;stroke-width:0.224708;stroke-linejoin:round;stroke-miterlimit:21.9;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 297.80778,145.58426 c -0.0867,0.17363 -0.2315,0.40455 -0.44996,0.5206 l -7.97471,4.23851 c -0.42596,0.22723 -0.9524,-0.0411 -0.98856,-0.48504 l -0.002,0.49193 c -0.002,0.4741 0.80347,0.72981 1.24566,0.49392 l 7.71979,-4.19592 c 0.30455,-0.16175 0.49343,-0.46189 0.49482,-0.78805 v -5.4e-4 c 3.1e-4,-0.0949 -0.0154,-0.18742 -0.0449,-0.27541 z"
+             sodipodi:nodetypes="cccccccsscc" />
+        </g>
+      </g>
+    </a>
+    <a
+       id="a127896"
+       href="mathstartscreen.svg">
+      <g
+         id="g126095">
+        <circle
+           style="fill:#8787de;fill-opacity:1;stroke-width:18.2157;stop-color:#000000"
+           id="circle59703"
+           cx="334.92093"
+           cy="131.40276"
+           r="10.90862" />
+        <path
+           id="path59705"
+           style="fill:#afafe9;fill-opacity:1;stroke-width:18.2157;stop-color:#000000"
+           d="m 334.92106,120.64008 a 10.90862,10.90862 0 0 0 -10.90872,10.9087 10.90862,10.90862 0 0 0 0.0465,0.95644 10.90862,10.90862 0 0 1 10.86213,-9.95132 10.90862,10.90862 0 0 1 10.86402,9.93326 10.90862,10.90862 0 0 0 0.0447,-0.93838 10.90862,10.90862 0 0 0 -10.90871,-10.9087 z" />
+        <g
+           id="g35246"
+           transform="translate(-0.05560526,-0.00981204)">
+          <g
+             aria-label="A"
+             transform="scale(0.99762246,1.0023832)"
+             id="text25855"
+             style="font-weight:bold;font-size:14.9685px;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy Bold';fill:#afafe9;stroke-width:93.356;stop-color:#000000">
+            <path
+               d="m 337.43761,132.23836 v -3.32552 h -3.32552 v 3.32552 z m -8.3138,4.98828 v -3.32552 h 1.66276 v -3.32552 h 1.66276 v -3.32553 h 1.66276 v -1.66276 h 3.32552 v 1.66276 h 1.66276 v 3.32553 h 1.66276 v 3.32552 h 1.66276 v 3.32552 h -3.32552 v -3.32552 h -6.65104 v 3.32552 z"
+               id="path35248" />
+          </g>
+          <g
+             aria-label="A"
+             transform="scale(0.99762246,1.0023832)"
+             id="text12399"
+             style="font-weight:bold;font-size:14.9685px;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy Bold';fill:#222278;stroke-width:93.356;stop-color:#000000">
+            <path
+               d="m 337.43761,131.62466 v -3.32552 h -3.32552 v 3.32552 z m -8.3138,4.98829 v -3.32553 h 1.66276 v -3.32552 h 1.66276 v -3.32552 h 1.66276 v -1.66276 h 3.32552 v 1.66276 h 1.66276 v 3.32552 h 1.66276 v 3.32552 h 1.66276 v 3.32553 h -3.32552 v -3.32553 h -6.65104 v 3.32553 z"
+               id="path35251" />
+          </g>
+        </g>
+      </g>
+    </a>
+    <circle
+       style="fill:#44aa00;fill-opacity:1;stroke-width:13.4365;stop-color:#000000"
+       id="path37973"
+       cx="305.12399"
+       cy="99.238495"
+       r="2.3942263" />
+    <path
+       id="circle67091"
+       style="fill:#55d400;fill-opacity:1;stroke-width:13.4365;stop-color:#000000"
+       d="m 305.12408,96.844389 a 2.3942264,2.3942264 0 0 0 -2.39421,2.39422 2.3942264,2.3942264 0 0 0 0.006,0.17182 2.3942264,2.3942264 0 0 1 2.38791,-2.2224 2.3942264,2.3942264 0 0 1 2.38791,2.22345 2.3942264,2.3942264 0 0 0 0.006,-0.17287 2.3942264,2.3942264 0 0 0 -2.39421,-2.39422 z" />
+    <ellipse
+       style="fill:url(#linearGradient68075);fill-opacity:1;stroke-width:14.719;stop-color:#000000"
+       id="path67799"
+       cx="305.22476"
+       cy="98.573212"
+       rx="1.5535275"
+       ry="1.0685501" />
+    <g
+       aria-label="POWER"
+       id="text83923"
+       style="font-weight:bold;font-size:4.93889px;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy Bold';fill:#161651;stroke-width:19.802;stop-color:#000000">
+      <path
+         d="m 313.31022,99.265686 v -1.097263 h -2.19452 v 1.097263 z m -3.29179,2.194524 v -3.840418 h 3.84042 v 0.548631 h 0.54864 v 1.097263 h -0.54864 v 0.548632 h -2.74315 v 1.645892 z"
+         id="path57412" />
+      <path
+         d="m 318.24911,100.91158 v -2.743157 h -2.19452 v 2.743157 z m -2.74316,0.54863 v -0.54863 h -0.54863 v -2.743157 h 0.54863 v -0.548631 h 3.29179 v 0.548631 h 0.54864 v 2.743157 h -0.54864 v 0.54863 z"
+         id="path57414" />
+      <path
+         d="m 319.89621,101.46021 v -3.840418 h 1.09727 v 2.194526 h 0.54863 v -0.548632 h 1.09726 v 0.548632 h 0.54863 v -2.194526 h 1.09727 v 3.840418 H 323.188 v -0.54863 h -0.54863 v -0.54863 h -1.09726 v 0.54863 h -0.54863 v 0.54863 z"
+         id="path57416" />
+      <path
+         d="m 324.8351,101.46021 v -3.840418 h 4.38905 v 1.097263 h -0.54863 v -0.548632 h -2.74315 v 1.097263 h 2.19452 v 0.548632 h -2.19452 v 1.097262 h 2.74315 v -0.54863 h 0.54863 v 1.09726 z"
+         id="path57418" />
+      <path
+         d="m 333.06578,99.265686 v -1.097263 h -2.19452 v 1.097263 z m -3.29179,2.194524 v -3.840418 h 3.84042 v 0.548631 h 0.54864 v 1.097263 h -0.54864 v 0.548632 h -0.54863 v 0.548632 h 0.54863 v 0.54863 h 0.54864 v 0.54863 h -1.09727 v -0.54863 h -0.54863 v -0.54863 h -0.54863 v -0.548632 h -1.09726 v 1.645892 z"
+         id="path57420" />
+    </g>
+    <path
+       d="m 156.32402,95.367752 v -0.627007 h 0.62701 V 91.60571 h -0.62701 v -0.627006 h 2.50803 v 0.627006 h -0.62701 v 3.135035 h 0.62701 v 0.627007 z"
+       id="path58672"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 159.45906,95.367752 v -3.135035 h 0.627 v 0.627007 h 0.62701 v 2.508028 z m 2.50802,0 v -2.508028 h -1.25401 v -0.627007 h 1.88102 v 0.627007 h 0.62701 v 2.508028 z"
+       id="path58674"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 163.8481,95.367752 v -0.627007 h 2.50803 v -0.627007 h -1.88102 v -0.627007 h -0.62701 v -0.627007 h 0.62701 v -0.627007 h 3.13503 v 0.627007 h -2.50802 v 0.627007 h 1.88102 v 0.627007 h 0.627 v 0.627007 h -0.627 v 0.627007 z"
+       id="path58676"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 169.49117,95.367752 v -0.627007 h -0.62701 v -1.881021 h -0.62701 v -0.627007 h 0.62701 v -1.254013 h 1.25401 v 1.254013 h 1.25402 v 0.627007 h -1.25402 v 1.881021 h 0.62701 v -0.627007 h 1.25401 v 0.627007 h -0.627 v 0.627007 z"
+       id="path58678"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 172.6262,95.367752 v -3.135035 h 0.62701 v 0.627007 h 0.627 v 2.508028 z m 2.50803,-1.881021 v -0.627007 h -1.25402 v -0.627007 h 1.88102 v 0.627007 h 0.62701 v 0.627007 z"
+       id="path58680"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 177.64225,95.367752 v -0.627007 h -0.627 v -2.508028 h 1.25401 v 2.508028 h 1.25402 v 0.627007 z m 2.50803,0 v -0.627007 h -0.627 v -2.508028 h 1.25401 v 3.135035 z"
+       id="path58682"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 182.0313,95.367752 v -0.627007 h -0.627 v -1.881021 h 0.627 v -0.627007 h 2.50803 v 0.627007 h 0.62701 v 0.627007 h -1.25402 v -0.627007 h -1.25401 v 1.881021 h 1.25401 v -0.627007 h 1.25402 v 0.627007 h -0.62701 v 0.627007 z"
+       id="path58684"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 187.04736,95.367752 v -0.627007 h -0.62701 v -1.881021 h -0.62701 v -0.627007 h 0.62701 v -1.254013 h 1.25401 v 1.254013 h 1.25402 v 0.627007 h -1.25402 v 1.881021 h 0.62701 v -0.627007 h 1.25401 v 0.627007 h -0.627 v 0.627007 z"
+       id="path58686"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 190.18239,95.367752 v -0.627007 h 0.62701 v -2.508028 h 1.25401 v 2.508028 h 0.62701 v 0.627007 z m 0.62701,-3.762042 v -0.627006 h 1.25401 v 0.627006 z"
+       id="path58688"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 195.82545,94.740745 v -1.881021 h -1.25401 v 1.881021 z m -1.88102,0.627007 v -0.627007 h -0.627 v -1.881021 h 0.627 v -0.627007 h 2.50803 v 0.627007 h 0.62701 v 1.881021 h -0.62701 v 0.627007 z"
+       id="path58690"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 197.70647,95.367752 v -3.135035 h 0.62701 v 0.627007 h 0.62701 v 2.508028 z m 2.50803,0 v -2.508028 h -1.25401 v -0.627007 h 1.88102 v 0.627007 h 0.62701 v 2.508028 z"
+       id="path58692"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <path
+       d="m 202.09552,95.367752 v -0.627007 h 2.50803 v -0.627007 h -1.88102 v -0.627007 h -0.62701 v -0.627007 h 0.62701 v -0.627007 h 3.13504 v 0.627007 h -2.50803 v 0.627007 h 1.88102 v 0.627007 h 0.62701 v 0.627007 h -0.62701 v 0.627007 z"
+       id="path58694"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    <g
+       id="g61215"
+       transform="translate(0,5.8208336)">
+      <path
+         d="m 136.25773,114.12422 v -1.25402 h -1.25401 v 1.25402 z m -3.13503,1.88102 v -1.25402 h 0.62701 v -1.25401 h 0.627 v -1.25402 h 0.62701 v -0.627 h 1.25401 v 0.627 h 0.62701 v 1.25402 h 0.62701 v 1.25401 h 0.627 v 1.25402 h -1.25401 v -1.25402 h -2.50803 v 1.25402 z"
+         id="path58696"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 138.76714,116.00524 v -0.62701 h 2.50803 v -0.62701 h -1.88102 v -0.627 h -0.62701 v -0.62701 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50803 v 0.62701 h 1.88102 v 0.627 h 0.62701 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58698"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 146.29122,117.25925 v -0.62701 h 1.88102 v -0.627 h -1.88102 v -0.62701 h -0.62701 v -2.50803 h 1.25402 v 2.50803 h 1.25401 v -2.50803 h 1.25401 v 3.76204 h -0.627 v 0.62701 z"
+         id="path58700"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 152.56129,115.37823 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.88102 h -0.627 v 0.62701 z"
+         id="path58702"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 155.06932,116.00524 v -0.62701 h -0.62701 v -2.50803 h 1.25401 v 2.50803 h 1.25402 v 0.62701 z m 2.50803,0 v -0.62701 h -0.62701 v -2.50803 h 1.25401 v 3.13504 z"
+         id="path58704"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 161.33939,116.00524 v -4.38905 h 1.25401 v 2.50803 h 0.62701 v -0.62701 h 0.627 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.62701 h -0.62701 v 0.627 h 0.62701 v 0.62701 h 0.62701 v 0.62701 h -1.25402 v -0.62701 h -0.627 v -0.62701 h -0.62701 v 1.25402 z"
+         id="path58706"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 165.72843,116.00524 v -3.13504 h 0.62701 v 0.62701 h 0.62701 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path58708"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 172.62551,115.37823 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.88102 h -0.627 v 0.62701 z"
+         id="path58710"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 176.38755,115.37823 v -1.88102 h 1.25401 v 1.88102 z m -1.25401,0.62701 v -0.62701 h -0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 2.50802,0 v -0.62701 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h -0.627 v 0.62701 z"
+         id="path58712"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 182.659,116.00524 v -0.62701 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 0.62701,-3.76205 v -0.627 h 1.25401 v 0.627 z"
+         id="path58714"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 185.79403,116.00524 v -3.13504 h 0.62701 v 0.62701 h 0.62701 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.627 v 2.50803 z"
+         id="path58716"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 193.94512,116.00524 v -0.62701 h -0.62701 v -1.88102 h -0.627 v -0.62701 h 0.627 v -1.25401 h 1.25402 v 1.25401 h 1.25401 v 0.62701 h -1.25401 v 1.88102 h 0.627 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58718"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 197.08016,116.00524 v -4.38905 h 1.25401 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 2.50803 h -1.25402 v -2.50803 h -1.25401 v 2.50803 z"
+         id="path58720"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 203.97723,114.12422 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.25401 h -2.50802 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58722"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 208.99329,117.25925 v -0.62701 h 1.88102 v -0.627 h -1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v 0.62701 h -1.25401 v 1.88102 h 1.25401 v -1.88102 h 0.62701 v -0.62701 h 0.627 v 3.76204 h -0.627 v 0.62701 z"
+         id="path58724"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 213.38233,116.00524 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58726"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 217.14437,116.00524 v -3.13504 h 0.62701 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v 2.50803 h -1.25402 v -1.88102 h -0.627 v 1.88102 h -1.25402 v -1.88102 h -0.627 v 1.88102 z"
+         id="path58728"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 225.29684,114.12422 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.25401 h -2.50802 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58730"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 103.65406,122.43378 v -3.13504 h -2.50802 v 3.13504 z m -3.762039,0.62701 v -4.38905 h 4.389049 v 0.627 h 0.62701 v 3.13504 h -0.62701 v 0.62701 z"
+         id="path58732"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 106.16347,123.06079 v -0.62701 h -0.62701 v -2.50803 h 1.25402 v 2.50803 h 1.25401 v 0.62701 z m 2.50803,0 v -0.62701 h -0.62701 v -2.50803 h 1.25401 v 3.13504 z"
+         id="path58734"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 109.92551,123.06079 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path58736"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 114.94157,124.3148 v -0.62701 h 1.88102 v -0.627 h -1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v 0.62701 h -1.25402 v 1.88102 h 1.25402 v -1.88102 h 0.627 v -0.62701 h 0.62701 v 3.76204 h -0.62701 v 0.62701 z"
+         id="path58738"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 121.21163,121.17977 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58740"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 125.60068,122.43378 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.88102 h -0.627 v 0.62701 z"
+         id="path58742"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 127.4817,123.06079 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88103 v 0.62701 h 0.627 v 2.50803 z"
+         id="path58744"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 131.87075,123.06079 v -0.62701 h 2.50803 v -0.62701 h -1.88102 v -0.627 h -0.62701 v -0.62701 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50803 v 0.62701 h 1.88103 v 0.627 h 0.627 v 0.62701 h -0.627 v 0.62701 z"
+         id="path58746"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 139.39483,123.06079 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58748"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 143.15688,123.06079 v -3.13504 h 0.627 v 0.62701 h 0.62701 v 2.50803 z m 2.50802,0 v -2.50803 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path58750"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 148.17293,123.06079 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.627 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58752"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 158.20504,122.43378 v -3.13504 h -2.50803 v 3.13504 z m -3.76204,0.62701 v -4.38905 h 4.38905 v 0.627 h 0.627 v 3.13504 h -0.627 v 0.62701 z"
+         id="path58754"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 160.08744,123.06079 v -3.13504 h 0.627 v 0.62701 h 0.62701 v 2.50803 z m 2.50802,-1.88102 v -0.62701 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.62701 z"
+         id="path58756"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 165.10349,123.06079 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58758"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 169.49254,124.3148 v -0.62701 h 1.88102 v -0.627 h -1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v 0.62701 h -1.25401 v 1.88102 h 1.25401 v -1.88102 h 0.62701 v -0.62701 h 0.627 v 3.76204 h -0.627 v 0.62701 z"
+         id="path58760"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 175.76261,122.43378 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path58762"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 177.64363,123.06079 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88103 v 0.62701 h 0.627 v 2.50803 z"
+         id="path58764"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 182.03268,123.06079 v -0.62701 h 2.50802 v -0.62701 h -1.88102 v -0.627 h -0.627 v -0.62701 h 0.627 v -0.62701 h 3.13504 v 0.62701 h -2.50803 v 0.62701 h 1.88102 v 0.627 h 0.62701 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58766"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 186.42173,124.3148 v -0.62701 h 0.62701 v 0.62701 z m 0.62701,-0.62701 v -0.627 h -0.62701 v -0.62701 h 1.25401 v 1.25401 z"
+         id="path58768"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 191.43778,124.3148 v -0.62701 h 1.88102 v -0.627 h -1.88102 v -0.62701 h -0.627 v -2.50803 h 1.25401 v 2.50803 h 1.25401 v -2.50803 h 1.25402 v 3.76204 h -0.62701 v 0.62701 z"
+         id="path58770"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 197.70785,122.43378 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.88102 h -0.627 v 0.62701 z"
+         id="path58772"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 200.21587,123.06079 v -0.62701 h -0.627 v -2.50803 h 1.25401 v 2.50803 h 1.25401 v 0.62701 z m 2.50803,0 v -0.62701 h -0.62701 v -2.50803 h 1.25402 v 3.13504 z"
+         id="path58774"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 207.11295,123.06079 v -0.62701 h -0.627 v -2.50803 h 1.25401 v 2.50803 h 1.25401 v 0.62701 z m 2.50803,0 v -0.62701 h -0.62701 v -2.50803 h 1.25402 v 3.13504 z"
+         id="path58776"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 210.87499,123.06079 v -0.62701 h 2.50803 v -0.62701 H 211.502 v -0.627 h -0.62701 v -0.62701 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50802 v 0.62701 h 1.88102 v 0.627 h 0.627 v 0.62701 h -0.627 v 0.62701 z"
+         id="path58778"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 217.77207,121.17977 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58780"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 222.78812,123.06079 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88103 v -1.25401 h 1.25401 v 4.38905 h -0.62701 v -0.62701 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58782"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 226.55016,123.06079 v -0.62701 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 0.62701,-3.76205 v -0.627 h 1.25401 v 0.627 z"
+         id="path58784"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 230.31221,123.06079 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25402 h 0.62701 v -0.627 h 1.88102 v 0.627 h 0.62701 v 0.62701 h -1.25402 v -0.62701 h -0.62701 v 1.25402 h 1.25402 v 0.62701 h -1.25402 v 1.88102 z"
+         id="path58786"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 234.70125,123.06079 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25402 h 0.62701 v -0.627 h 1.88102 v 0.627 h 0.627 v 0.62701 h -1.25401 v -0.62701 h -0.62701 v 1.25402 h 1.25402 v 0.62701 h -1.25402 v 1.88102 z"
+         id="path58788"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 240.97132,121.17977 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58790"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 242.85235,123.06079 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,-1.88102 v -0.62701 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.62701 z"
+         id="path58792"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 249.74941,121.17977 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58794"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 251.63044,123.06079 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path58796"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 257.27351,123.06079 v -0.62701 h -0.62701 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25401 h 1.25401 v 1.25401 h 1.25402 v 0.62701 h -1.25402 v 1.88102 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h -0.627 v 0.62701 z"
+         id="path58798"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 99.578518,130.11634 v -0.62701 h 2.508032 v -0.62701 h -1.88103 v -0.62701 h -0.627002 v -0.627 h 0.627002 v -0.62701 h 3.13504 v 0.62701 h -2.50803 v 0.627 h 1.88102 v 0.62701 h 0.62701 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58800"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 103.96757,130.11634 v -0.62701 h 0.627 v -2.50803 h 1.25402 v 2.50803 h 0.627 v 0.62701 z m 0.627,-3.76205 v -0.627 h 1.25402 v 0.627 z"
+         id="path58802"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 107.72961,130.11634 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.627 v -0.62701 h -0.62701 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58804"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 113.99968,128.23531 v -0.627 h -1.25402 v 0.627 z m -1.88102,1.88103 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58806"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 116.5077,130.11634 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38905 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58808"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 122.77777,131.37035 v -4.38905 h 0.62701 v 0.62701 h 0.62701 v 1.88102 h 1.25401 v -1.88102 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.627 v 1.88102 h -0.627 v 0.62701 h -1.88102 v 1.25401 z"
+         id="path58810"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 129.67485,129.48933 v -1.88102 h -1.25402 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path58812"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 131.55587,130.11634 v -0.62701 h 0.627 v -3.13504 h -0.627 v -0.627 h 1.88102 v 3.76204 h 0.62701 v 0.62701 z"
+         id="path58814"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 135.31791,131.37035 v -0.62701 h 1.88102 v -0.627 h -1.88102 v -0.62701 h -0.62701 v -2.50803 h 1.25402 v 2.50803 h 1.25401 v -2.50803 h 1.25401 v 3.76204 h -0.627 v 0.62701 z"
+         id="path58816"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 139.07995,130.11634 v -4.38905 h 1.25402 v 1.25401 h 1.88102 v 0.62701 h 0.627 v 2.50803 h -1.25401 v -2.50803 h -1.25401 v 2.50803 z"
+         id="path58818"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 145.97703,128.23531 v -0.627 h -1.25402 v 0.627 z m -1.88103,1.88103 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58820"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 148.48505,130.11634 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88103 v -1.25401 h 1.25401 v 4.38905 h -0.62701 v -0.62701 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58822"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 152.2471,130.11634 v -3.13504 h 0.627 v 0.62701 h 0.62701 v 2.50803 z m 2.50802,-1.88103 v -0.627 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.627 z"
+         id="path58824"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 157.26315,130.11634 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 2.50803 h -0.627 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58826"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 161.02519,130.11634 v -0.62701 h 0.62701 v -3.13504 h -0.62701 v -0.627 h 1.88102 v 3.76204 h 0.62701 v 0.62701 z"
+         id="path58828"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 167.29526,130.11634 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38905 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58830"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 171.0573,130.11634 v -0.62701 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 0.62701,-3.76205 v -0.627 h 1.25401 v 0.627 z"
+         id="path58832"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 174.81934,130.11634 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 0.627 h -1.25401 v -0.627 h -1.25401 v 1.88102 h 1.25401 v -0.62701 h 1.25401 v 0.62701 h -0.627 v 0.62701 z"
+         id="path58834"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 181.08941,128.23531 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88103 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58836"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 186.73247,130.11634 v -0.62701 h -0.627 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25401 h 1.25401 v 1.25401 h 1.25401 v 0.62701 h -1.25401 v 1.88102 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58838"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 192.37554,129.48933 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.88102 h -0.627 v 0.62701 z"
+         id="path58840"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 196.76458,130.11634 v -0.62701 h 2.50803 v -0.62701 h -1.88102 v -0.62701 h -0.62701 v -0.627 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50802 v 0.627 h 1.88102 v 0.62701 h 0.627 v 0.62701 h -0.627 v 0.62701 z"
+         id="path58842"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 201.15363,130.11634 v -0.62701 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 0.62701,-3.76205 v -0.627 h 1.25401 v 0.627 z"
+         id="path58844"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 204.28867,130.11634 v -3.13504 h 0.62701 v 0.62701 h 0.627 v -0.62701 h 1.25402 v 0.62701 h 0.627 v -0.62701 h 1.25402 v 0.62701 h 0.627 v 2.50803 h -1.25401 v -1.88103 h -0.62701 v 1.88103 h -1.25401 v -1.88103 h -0.62701 v 1.88103 z"
+         id="path58846"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 210.56012,130.11634 v -0.62701 h -0.62701 v -2.50803 h 1.25401 v 2.50803 h 1.25402 v 0.62701 z m 2.50802,0 v -0.62701 h -0.627 v -2.50803 h 1.25401 v 3.13504 z"
+         id="path58848"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 214.32215,130.11634 v -0.62701 h 0.62701 v -3.13504 h -0.62701 v -0.627 h 1.88103 v 3.76204 h 0.627 v 0.62701 z"
+         id="path58850"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 218.08419,130.11634 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58852"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 223.10025,130.11634 v -0.62701 h -0.627 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25401 h 1.25401 v 1.25401 h 1.25402 v 0.62701 h -1.25402 v 1.88102 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h -0.627 v 0.62701 z"
+         id="path58854"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 228.74331,128.23531 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88103 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58856"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 233.13237,130.11634 v -3.13504 h 0.627 v 0.62701 h 0.62701 v 2.50803 z m 2.50802,-1.88103 v -0.627 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.627 z"
+         id="path58858"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 238.14841,130.11634 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58860"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 241.91046,130.11634 v -3.13504 h 0.627 v 0.62701 h 0.62701 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path58862"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 246.92652,130.11634 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.627 v -0.62701 h -0.62701 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58864"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 253.19658,129.48933 v -1.88102 h -1.25402 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path58866"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 255.0776,130.11634 v -3.13504 h 0.62701 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v 2.50803 h -1.25402 v -1.88103 h -0.627 v 1.88103 h -1.25402 v -1.88103 h -0.627 v 1.88103 z"
+         id="path58868"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 102.71355,137.17189 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 0.627 h -1.25402 v -0.627 h -1.25401 v 1.88102 h 1.25401 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.627 z"
+         id="path58870"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 106.47559,137.17189 v -4.38905 h 1.25402 v 1.25402 h 1.88102 v 0.62701 h 0.627 v 2.50802 h -1.25401 v -2.50802 h -1.25401 v 2.50802 z"
+         id="path58872"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 111.49165,137.17189 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 2.50802 h -0.627 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path58874"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 115.25369,137.17189 v -3.13503 h 0.62701 v 0.62701 h 0.627 v 2.50802 z m 2.50803,0 v -2.50802 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50802 z"
+         id="path58876"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 120.26974,137.17189 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 0.627 h -1.25401 v -0.627 h -1.25402 v 1.88102 h 1.25402 v -0.62701 h 1.25401 v 0.62701 h -0.62701 v 0.627 z"
+         id="path58878"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 126.53981,135.29087 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.627 z"
+         id="path58880"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 132.80988,136.54489 v -1.88102 h 1.25402 v 1.88102 z m -1.25401,0.627 v -0.627 h -0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.627 z m 2.50803,0 v -0.627 h 0.627 v -2.50803 h 1.25402 v 2.50803 h -0.62701 v 0.627 z"
+         id="path58882"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 136.5733,137.17189 v -4.38905 h 1.25401 v 1.25402 h 1.88103 v 0.62701 h 0.627 v 2.50802 h -1.25401 v -2.50802 h -1.25402 v 2.50802 z"
+         id="path58884"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 143.47038,135.29087 v -0.627 h -1.25402 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.627 z"
+         id="path58886"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 145.3514,137.17189 v -3.13503 h 0.62701 v 0.62701 h 0.627 v 2.50802 z m 2.50803,0 v -2.50802 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50802 z"
+         id="path58888"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 152.24847,137.17189 v -3.13503 h 0.62701 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v 2.50802 h -1.25402 v -1.88102 h -0.627 v 1.88102 h -1.25402 v -1.88102 h -0.627 v 1.88102 z"
+         id="path58890"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 158.51992,137.17189 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50802 h -0.62701 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path58892"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 162.28196,137.17189 v -4.38905 h 1.25401 v 2.50803 h 0.62701 v -0.627 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h -0.627 v 0.627 h -0.62701 v 0.62701 h 0.62701 v 0.62701 h 0.627 v 0.627 h -1.25401 v -0.627 h -0.62701 v -0.62701 h -0.62701 v 1.25401 z"
+         id="path58894"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 166.67101,137.17189 v -0.627 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.627 z m 0.62701,-3.76204 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path58896"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 169.80604,137.17189 v -3.13503 h 0.62701 v 0.62701 h 0.62701 v 2.50802 z m 2.50803,0 v -2.50802 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.627 v 2.50802 z"
+         id="path58898"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 174.8221,138.42591 v -0.62701 h 1.88102 v -0.62701 h -1.88102 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v 0.62701 h -1.25401 v 1.88102 h 1.25401 v -1.88102 h 0.62701 v -0.62701 h 0.62701 v 3.76204 h -0.62701 v 0.62701 z"
+         id="path58900"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 181.71918,137.17189 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25402 h 1.25401 v 4.38905 h -0.62701 v -0.627 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.627 z"
+         id="path58902"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 185.48121,137.17189 v -0.627 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.627 z m 0.62701,-3.76204 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path58904"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 189.24326,137.17189 v -1.88102 h -0.62701 v -0.627 h 0.62701 v -1.25402 h 0.62701 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.62701 h -1.25402 v -0.62701 h -0.627 v 1.25402 h 1.25401 v 0.627 h -1.25401 v 1.88102 z"
+         id="path58906"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 193.63231,137.17189 v -1.88102 h -0.62701 v -0.627 h 0.62701 v -1.25402 h 0.627 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.62701 h -1.25401 v -0.62701 h -0.62701 v 1.25402 h 1.25401 v 0.627 h -1.25401 v 1.88102 z"
+         id="path58908"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 199.90237,135.29087 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.627 z"
+         id="path58910"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 201.7834,137.17189 v -3.13503 h 0.62701 v 0.62701 h 0.627 v 2.50802 z m 2.50803,-1.88102 v -0.627 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.627 z"
+         id="path58912"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 208.68047,135.29087 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.627 z"
+         id="path58914"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 210.56149,137.17189 v -3.13503 h 0.62701 v 0.62701 h 0.627 v 2.50802 z m 2.50803,0 v -2.50802 h -1.25402 v -0.62701 h 1.88103 v 0.62701 h 0.627 v 2.50802 z"
+         id="path58916"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 216.20455,137.17189 v -0.627 h -0.62701 v -1.88102 h -0.627 v -0.62701 h 0.627 v -1.25402 h 1.25402 v 1.25402 h 1.25401 v 0.62701 h -1.25401 v 1.88102 h 0.627 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.627 z"
+         id="path58918"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 222.47462,137.17189 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25402 h 1.25402 v 4.38905 h -0.62701 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path58920"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 228.74469,135.29087 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.25401 h -2.50802 v 0.62701 h 1.88102 v 0.627 z"
+         id="path58922"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 231.25272,137.17189 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 0.627 h -1.25402 v -0.627 h -1.25401 v 1.88102 h 1.25401 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.627 z"
+         id="path58924"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 235.01475,137.17189 v -0.627 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.627 z m 0.62701,-3.76204 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path58926"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 238.14979,137.17189 v -0.627 h 2.50803 v -0.62701 h -1.88102 v -0.62701 h -0.62701 v -0.627 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50802 v 0.627 h 1.88102 v 0.62701 h 0.627 v 0.62701 h -0.627 v 0.627 z"
+         id="path58928"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 242.53885,137.17189 v -0.627 h 0.627 v -2.50803 h 1.25402 v 2.50803 h 0.627 v 0.627 z m 0.627,-3.76204 v -0.62701 h 1.25402 v 0.62701 z"
+         id="path58930"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 248.1819,136.54489 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.627 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.88102 h -0.627 v 0.627 z"
+         id="path58932"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 250.06292,137.17189 v -3.13503 h 0.62701 v 0.62701 h 0.62701 v 2.50802 z m 2.50803,0 v -2.50802 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50802 z"
+         id="path58934"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 254.45198,137.17189 v -0.627 h 2.50803 v -0.62701 h -1.88102 v -0.62701 h -0.62701 v -0.627 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50803 v 0.627 h 1.88102 v 0.62701 h 0.62701 v 0.62701 h -0.62701 v 0.627 z"
+         id="path58936"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 258.84102,137.17189 v -0.627 h 1.25401 v 0.627 z"
+         id="path58938"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 108.98087,151.28301 V 150.656 h 0.627 v -3.13503 h -1.25401 v 0.627 h -0.62701 v -1.25401 h 5.01606 v 1.25401 h -0.62701 v -0.627 h -1.25401 v 3.13503 h 0.627 v 0.62701 z"
+         id="path58940"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 113.37129,151.28301 v -4.38905 h 1.25402 v 1.25401 h 1.88102 v 0.62701 h 0.627 v 2.50803 h -1.25401 v -2.50803 h -1.25401 v 2.50803 z"
+         id="path58942"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 120.26837,149.40199 v -0.62701 h -1.25402 v 0.62701 z m -1.88102,1.88102 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58944"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 122.14939,151.28301 V 150.656 h 2.50803 v -0.62701 h -1.88102 v -0.627 h -0.62701 v -0.62701 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50803 v 0.62701 h 1.88102 v 0.627 h 0.62701 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58946"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 129.04646,149.40199 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 V 150.656 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58948"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 134.06252,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.627 V 150.656 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58950"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 137.82456,151.28301 V 150.656 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 0.62701,-3.76204 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path58952"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 141.5866,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 0.62701 h -1.25402 v -0.62701 h -1.25401 v 1.88102 h 1.25401 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58954"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 147.85667,149.40199 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.25401 h -2.50802 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58956"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 152.87273,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 2.50803 h -0.62701 V 150.656 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58958"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 156.63476,151.28301 v -3.13504 h 0.62701 v 0.62701 h 0.62701 v 2.50803 z m 2.50803,-1.88102 v -0.62701 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.62701 z"
+         id="path58960"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 163.53184,149.40199 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58962"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 168.5479,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 0.62701 h -1.25401 v -0.62701 h -1.25402 v 1.88102 h 1.25402 v -0.62701 h 1.25401 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58964"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 172.93694,151.28301 V 150.656 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 V 150.656 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58966"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 176.69899,151.28301 V 150.656 h 0.62701 v -3.13503 h -0.62701 v -0.62701 h 1.88102 v 3.76204 h 0.62701 v 0.62701 z"
+         id="path58968"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 179.83402,151.28301 V 150.656 h 0.62701 v -3.13503 h -0.62701 v -0.62701 h 1.88102 v 3.76204 h 0.62701 v 0.62701 z"
+         id="path58970"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 185.47708,149.40199 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path58972"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 187.98511,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.62701 V 150.656 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58974"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 194.88219,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.62701 V 150.656 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58976"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 201.77926,150.02899 v -1.88102 h -0.62701 v 0.62701 h -0.627 v 0.62701 h -0.62701 v 0.627 z m 0,1.25402 V 150.656 h -3.13503 v -1.25401 h 0.627 v -0.62701 h 0.62701 v -0.62701 h 0.62701 v -0.627 h 0.627 v -0.62701 h 1.88102 v 3.13503 h 0.62701 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path58978"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 204.28866,152.53702 v -0.62701 h 0.62701 v 0.62701 z m 0.62701,-0.62701 v -0.627 h -0.62701 V 150.656 h 1.25402 v 1.25401 z"
+         id="path58980"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 209.30473,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.62701 V 150.656 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58982"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 216.82881,150.656 v -1.25401 h -2.50803 v 1.25401 z m -3.13504,0.62701 V 150.656 h -0.62701 v -3.13503 h 0.62701 v -0.62701 h 3.76204 v 0.62701 h 0.62701 v 0.627 h -1.25401 v -0.627 h -2.50803 v 1.25401 h 3.13503 v 0.62701 h 0.62701 v 1.25401 h -0.62701 v 0.62701 z"
+         id="path58984"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 218.7112,152.53702 v -0.62701 h 0.62701 v 0.62701 z m 0.62701,-0.62701 v -0.627 H 218.7112 V 150.656 h 1.25402 v 1.25401 z"
+         id="path58986"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 223.72726,151.28301 V 150.656 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.62701 V 150.656 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path58988"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 231.25134,150.656 v -1.25401 h -2.50802 v 1.25401 z m 0,-1.88102 v -1.25401 h -2.50802 v 1.25401 z m -3.13503,2.50803 V 150.656 h -0.62701 v -1.25401 h 0.62701 v -0.62701 h -0.62701 v -1.25401 h 0.62701 v -0.62701 h 3.76204 v 0.62701 h 0.62701 v 1.25401 h -0.62701 v 0.62701 h 0.62701 v 1.25401 h -0.62701 v 0.62701 z"
+         id="path58990"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 233.13374,152.53702 v -0.62701 h 0.62701 v 0.62701 z m 0.62701,-0.62701 v -0.627 h -0.62701 V 150.656 h 1.25402 v 1.25401 z"
+         id="path58992"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 238.1498,151.28301 V 150.656 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38905 h -0.62701 V 150.656 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path58994"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="M 241.91183,151.28301 V 150.656 h 1.88102 v -3.13503 h -0.627 v -0.62701 h 1.88102 v 3.76204 h 1.88102 v 0.62701 z"
+         id="path58996"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 251.31831,150.656 v -3.13503 h -2.50802 v 3.13503 z m -3.13503,0.62701 V 150.656 h -0.62701 v -3.13503 h 0.62701 v -0.62701 h 3.76204 v 0.62701 h 0.62701 v 3.13503 h -0.62701 v 0.62701 z"
+         id="path58998"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 253.20071,152.53702 v -0.62701 h 0.62701 v 0.62701 z m 0.62701,-0.62701 v -0.627 h -0.62701 V 150.656 h 1.25402 v 1.25401 z"
+         id="path59000"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 155.38075,158.33856 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38904 h -0.62701 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path59002"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 159.1428,158.33856 v -0.627 h 1.88102 v -3.13504 h -0.62701 v -0.627 h 1.88102 v 3.76204 h 1.88102 v 0.627 z"
+         id="path59004"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 164.78724,158.33856 v -0.627 h 1.25401 v -0.62701 h 0.62701 v -0.62701 h 0.627 v -0.627 h 0.62701 v -0.62701 h 0.62701 v -0.62701 h -2.50803 v 0.62701 h -1.25401 v -0.62701 h 0.627 v -0.627 h 3.76204 v 0.627 h 0.62701 v 0.62701 h -0.62701 v 0.62701 h -0.627 v 0.627 h -0.62701 v 0.62701 h -0.62701 v 0.62701 h 1.88102 v -0.62701 h 0.62701 v 1.25401 z"
+         id="path59006"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 170.43168,159.59258 v -0.62701 h 0.627 v 0.62701 z m 0.627,-0.62701 v -0.62701 h -0.627 v -0.627 h 1.25401 v 1.25401 z"
+         id="path59008"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 175.44773,158.33856 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50802 h -0.62701 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path59010"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 179.20977,158.33856 v -3.13503 h 0.62701 v 0.62701 h 0.62701 v 2.50802 z m 2.50803,0 v -2.50802 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.627 v 2.50802 z"
+         id="path59012"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 184.22583,158.33856 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38904 h -0.627 v -0.627 h -0.62701 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.627 z"
+         id="path59014"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 191.1229,158.33856 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38904 h -0.62701 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path59016"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 194.88494,158.33856 v -0.627 h 1.25402 v -0.62701 h 0.627 v -0.62701 h 0.62701 v -0.627 h 0.62701 v -0.62701 h 0.627 v -0.62701 h -2.50802 v 0.62701 h -1.25402 v -0.62701 h 0.62701 v -0.627 h 3.76204 v 0.627 h 0.62701 v 0.62701 h -0.62701 v 0.62701 h -0.62701 v 0.627 h -0.627 v 0.62701 h -0.62701 v 0.62701 h 1.88102 v -0.62701 h 0.62701 v 1.25401 z"
+         id="path59018"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 204.29143,157.71156 v -3.13504 h -2.50803 v 3.13504 z m -3.13504,0.627 v -0.627 h -0.627 v -3.13504 h 0.627 v -0.627 h 3.76204 v 0.627 h 0.62701 v 3.13504 h -0.62701 v 0.627 z"
+         id="path59020"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 206.17383,158.33856 v -0.627 h 1.25401 v 0.627 z"
+         id="path59022"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 119.01504,172.44968 v -0.62701 h 0.62701 v -3.13503 h -1.25401 v 0.627 h -0.62701 v -1.25401 h 5.01605 v 1.25401 h -0.627 v -0.627 h -1.25402 v 3.13503 h 0.62701 v 0.62701 z"
+         id="path59024"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 123.40547,172.44968 v -4.38905 h 1.25401 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 2.50803 h -1.25401 v -2.50803 h -1.25402 v 2.50803 z"
+         id="path59026"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 127.79452,172.44968 v -0.62701 h 0.627 v -2.50803 h 1.25402 v 2.50803 h 0.627 v 0.62701 z m 0.627,-3.76204 v -0.62701 h 1.25402 v 0.62701 z"
+         id="path59028"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 130.92955,172.44968 v -0.62701 h 2.50803 v -0.627 h -1.88102 v -0.62701 h -0.62701 v -0.62701 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50802 v 0.62701 h 1.88102 v 0.62701 h 0.627 v 0.627 h -0.627 v 0.62701 z"
+         id="path59030"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 137.82663,172.44968 v -3.13504 h 0.627 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v 2.50803 h -1.25401 v -1.88102 h -0.62701 v 1.88102 h -1.25401 v -1.88102 h -0.62701 v 1.88102 z"
+         id="path59032"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 145.9791,170.56866 v -0.62701 h -1.25402 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25402 h -2.50803 v 0.627 h 1.88102 v 0.62701 z"
+         id="path59034"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 148.48712,172.44968 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59036"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 152.24917,172.44968 v -3.13504 h 0.627 v 0.62701 h 0.62701 v 2.50803 z m 2.50802,0 v -2.50803 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path59038"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 156.63821,172.44968 v -0.62701 h 2.50803 v -0.627 h -1.88102 v -0.62701 h -0.62701 v -0.62701 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50803 v 0.62701 h 1.88103 v 0.62701 h 0.627 v 0.627 h -0.627 v 0.62701 z"
+         id="path59040"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 164.7893,172.44968 v -0.62701 h -0.62701 v -1.88102 h -0.627 v -0.62701 h 0.627 v -1.25401 h 1.25402 v 1.25401 h 1.25401 v 0.62701 h -1.25401 v 1.88102 h 0.627 v -0.627 h 1.25402 v 0.627 h -0.62701 v 0.62701 z"
+         id="path59042"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 167.92434,172.44968 v -4.38905 h 1.25401 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 2.50803 h -1.25402 v -2.50803 h -1.25401 v 2.50803 z"
+         id="path59044"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 172.94039,172.44968 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 2.50803 h -0.627 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59046"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 177.95645,172.44968 v -0.62701 h -0.62701 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25401 h 1.25401 v 1.25401 h 1.25402 v 0.62701 h -1.25402 v 1.88102 h 0.62701 v -0.627 h 1.25401 v 0.627 h -0.627 v 0.62701 z"
+         id="path59048"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 184.22651,172.44968 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59050"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 191.12359,172.44968 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38905 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59052"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 198.02067,171.19567 v -1.88103 h -0.62701 v 0.62701 h -0.62701 v 0.62701 h -0.627 v 0.62701 z m 0,1.25401 v -0.62701 h -3.13504 v -1.25401 h 0.62701 v -0.62701 h 0.62701 v -0.62701 h 0.627 v -0.627 h 0.62701 v -0.62701 h 1.88102 v 3.13504 h 0.62701 v 0.627 h -0.62701 v 0.62701 z"
+         id="path59054"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 203.66511,172.44968 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v -1.25401 h 1.25401 v 4.38905 h -0.62701 v -0.62701 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path59056"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 207.42714,172.44968 v -0.62701 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 0.62701,-3.76204 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path59058"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 211.18919,172.44968 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 0.62701 h -1.25402 v -0.62701 h -1.25401 v 1.88102 h 1.25401 v -0.627 h 1.25402 v 0.627 h -0.62701 v 0.62701 z"
+         id="path59060"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 217.45926,170.56866 v -0.62701 h -1.25402 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25402 h -2.50803 v 0.627 h 1.88102 v 0.62701 z"
+         id="path59062"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 222.47532,173.70369 v -0.627 h 1.88102 v -0.62701 h -1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v 0.62701 h -1.25402 v 1.88102 h 1.25402 v -1.88102 h 0.627 v -0.62701 h 0.62701 v 3.76205 h -0.62701 v 0.627 z"
+         id="path59064"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 226.23736,172.44968 v -0.62701 h 0.627 v -2.50803 h 1.25402 v 2.50803 h 0.627 v 0.62701 z m 0.627,-3.76204 v -0.62701 h 1.25402 v 0.62701 z"
+         id="path59066"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 230.6264,172.44968 v -0.62701 h -0.62701 v -1.25401 h -0.627 v -1.25402 h 1.25401 v 1.88103 h 1.25402 v -1.88103 h 1.25401 v 1.25402 h -0.62701 v 1.25401 h -0.627 v 0.62701 z"
+         id="path59068"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 236.26946,170.56866 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.25402 h -2.50802 v 0.627 h 1.88102 v 0.62701 z"
+         id="path59070"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 238.15049,172.44968 v -0.62701 h 2.50802 v -0.627 h -1.88102 v -0.62701 h -0.627 v -0.62701 h 0.627 v -0.62701 h 3.13504 v 0.62701 h -2.50803 v 0.62701 h 1.88102 v 0.62701 h 0.62701 v 0.627 h -0.62701 v 0.62701 z"
+         id="path59072"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 108.66805,179.50524 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59074"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 114.93812,179.50524 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path59076"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 119.95417,179.50524 v -0.62701 h -0.627 v -2.50803 h 1.25401 v 2.50803 h 1.25401 v 0.62701 z m 2.50803,0 v -0.62701 h -0.62701 v -2.50803 h 1.25402 v 3.13504 z"
+         id="path59078"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 123.71622,179.50524 v -3.13504 h 0.627 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h 0.62701 v 2.50803 h -1.25401 v -1.88102 h -0.62701 v 1.88102 h -1.25401 v -1.88102 h -0.62701 v 1.88102 z"
+         id="path59080"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 129.36066,179.50524 v -4.38905 h 1.25401 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.62701 h -1.88102 v -0.62701 h 1.25401 v -1.88102 h -1.25401 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path59082"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 136.25773,177.62422 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path59084"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 138.13875,179.50524 v -3.13504 h 0.62701 v 0.62701 h 0.62701 v 2.50803 z m 2.50803,-1.88102 v -0.62701 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.627 v 0.62701 z"
+         id="path59086"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 145.03583,179.50524 v -4.38905 h 1.25401 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.62701 h -1.88102 v -0.62701 h 1.25402 v -1.88102 h -1.25402 v 1.88102 h -0.627 v 0.62701 z"
+         id="path59088"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 151.9329,177.62422 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path59090"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 155.06794,179.50524 v -0.62701 h -0.62701 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25401 h 1.25402 v 1.25401 h 1.25401 v 0.62701 h -1.25401 v 1.88102 h 0.627 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path59092"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 160.08399,178.87823 v -1.88102 h 1.25401 v 1.88102 z m -1.25401,0.62701 v -0.62701 h -0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 2.50802,0 v -0.62701 h 0.62701 v -2.50803 h 1.25402 v 2.50803 h -0.62701 v 0.62701 z"
+         id="path59094"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 166.35544,177.62422 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path59096"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 170.74449,177.62422 v -0.62701 h -1.25402 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path59098"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 172.62551,179.50524 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path59100"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 179.52258,179.50524 v -0.62701 h 1.88102 v -3.13504 h -0.62701 v -0.627 h 1.88103 v 3.76204 h 1.88102 v 0.62701 z"
+         id="path59102"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 188.30206,179.50524 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59104"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 192.0641,179.50524 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path59106"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 197.08015,179.50524 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38905 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59108"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 206.48526,178.25122 v -1.88102 h -0.62701 v 0.62701 h -0.627 v 0.62701 h -0.62701 v 0.627 z m 0,1.25402 v -0.62701 h -3.13503 v -1.25401 h 0.627 v -0.62701 h 0.62701 v -0.62701 h 0.62701 v -0.62701 h 0.627 v -0.627 h 1.88102 v 3.13503 h 0.62701 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path59110"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 213.38371,178.87823 v -1.88102 h 1.25402 v 1.88102 z m -1.25401,0.62701 v -0.62701 h -0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 2.50803,0 v -0.62701 h 0.627 v -2.50803 h 1.25402 v 2.50803 h -0.62701 v 0.62701 z"
+         id="path59112"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 217.14713,179.50524 v -0.62701 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.62701 z m 0.62701,-3.76205 v -0.627 h 1.25401 v 0.627 z"
+         id="path59114"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 221.53618,179.50524 v -0.62701 h -0.62701 v -1.88102 h -0.62701 v -0.62701 h 0.62701 v -1.25401 h 1.25401 v 1.25401 h 1.25402 v 0.62701 h -1.25402 v 1.88102 h 0.62701 v -0.62701 h 1.25401 v 0.62701 h -0.627 v 0.62701 z"
+         id="path59116"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 224.67122,179.50524 v -4.38905 h 1.25401 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 2.50803 h -1.25402 v -2.50803 h -1.25401 v 2.50803 z"
+         id="path59118"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 234.07632,177.62422 v -0.62701 h -1.25402 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path59120"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 238.46536,180.75925 v -1.25401 h -1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v 0.62701 h -1.25401 v 1.88102 h 1.25401 v -1.88102 h 0.62701 v -0.62701 h 0.62701 v 4.38905 z"
+         id="path59122"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 240.97339,179.50524 v -0.62701 h -0.627 v -2.50803 h 1.25401 v 2.50803 h 1.25402 v 0.62701 z m 2.50803,0 v -0.62701 h -0.627 v -2.50803 h 1.25401 v 3.13504 z"
+         id="path59124"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 245.36245,179.50524 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 2.50803 h -0.627 v -0.62701 h -0.62701 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path59126"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 249.12448,179.50524 v -0.62701 h 0.62701 v -3.13504 h -0.62701 v -0.627 h 1.88102 v 3.76204 h 0.62701 v 0.62701 z"
+         id="path59128"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 109.92275,187.81481 v -4.38905 h 0.62701 v 0.62701 h 0.62701 v 1.88102 h 1.25401 v -1.88102 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.627 h -1.88102 v 1.25402 z"
+         id="path59130"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 114.3118,186.56079 v -3.13503 h 0.62701 v 0.62701 h 0.62701 v 2.50802 z m 2.50803,-1.88102 v -0.627 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.627 v 0.627 z"
+         id="path59132"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 121.20888,185.93379 v -1.88102 h -1.25402 v 1.88102 z m -1.88102,0.627 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.627 z"
+         id="path59134"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 123.0899,186.56079 v -4.38904 h 1.25401 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.627 h -1.88102 v -0.627 h 1.25402 v -1.88102 h -1.25402 v 1.88102 h -0.627 v 0.627 z"
+         id="path59136"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 128.10595,186.56079 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50802 h -0.62701 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path59138"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 131.86799,186.56079 v -4.38904 h 1.25402 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.627 h -1.88102 v -0.627 h 1.25401 v -1.88102 h -1.25401 v 1.88102 H 132.495 v 0.627 z"
+         id="path59140"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 136.25704,186.56079 v -0.627 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.627 z m 0.62701,-3.76204 v -0.627 h 1.25401 v 0.627 z"
+         id="path59142"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 139.39208,186.56079 v -0.627 h 0.627 v -3.13504 h -0.627 v -0.627 h 1.88102 v 3.76204 h 0.627 v 0.627 z"
+         id="path59144"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 142.52711,186.56079 v -0.627 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.627 z m 0.62701,-3.76204 v -0.627 h 1.25401 v 0.627 z"
+         id="path59146"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 146.91616,186.56079 v -0.627 h -0.62701 v -1.88102 h -0.627 v -0.62701 h 0.627 v -1.25401 h 1.25402 v 1.25401 h 1.25401 v 0.62701 h -1.25401 v 1.88102 h 0.627 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.627 z"
+         id="path59148"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 150.6782,187.81481 v -0.62701 h 1.88102 v -0.62701 h -1.88102 v -0.627 h -0.62701 v -2.50803 h 1.25402 v 2.50803 h 1.25401 v -2.50803 h 1.25402 v 3.76204 h -0.62701 v 0.62701 z"
+         id="path59150"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 157.57528,186.56079 v -0.627 h -0.62701 v -3.13504 h 0.62701 v -0.627 h 1.25401 v 0.627 h -0.62701 v 3.13504 h 0.62701 v 0.627 z"
+         id="path59152"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 159.4563,186.56079 v -0.627 h 0.627 v -2.50803 h 1.25402 v 2.50803 h 0.627 v 0.627 z m 0.627,-3.76204 v -0.627 h 1.25402 v 0.627 z"
+         id="path59154"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 162.59133,186.56079 v -0.627 h 1.25402 v 0.627 z"
+         id="path59156"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 166.98038,184.67977 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 1.25401 h -2.50802 v 0.62701 h 1.88102 v 0.627 z"
+         id="path59158"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 168.8614,186.56079 v -0.627 h 1.25402 v 0.627 z"
+         id="path59160"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 173.25045,186.56079 v -0.627 h 1.25401 v -0.62701 h 0.62701 v -0.62701 h 0.62701 v -0.627 h 0.627 v -0.62701 h 0.62701 v -0.62701 h -2.50803 v 0.62701 h -1.25401 v -0.62701 h 0.627 v -0.627 h 3.76205 v 0.627 h 0.627 v 0.62701 h -0.627 v 0.62701 h -0.62701 v 0.627 h -0.62701 v 0.62701 h -0.627 v 0.62701 h 1.88102 v -0.62701 h 0.627 v 1.25401 z"
+         id="path59162"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 179.5219,186.56079 v -0.627 h -0.62701 v -0.62701 h 1.25401 v 0.62701 h 2.50803 v -1.88102 h -3.13503 v -0.62701 h -0.62701 v -1.25401 h 5.01606 v 0.627 h -3.76205 v 0.62701 h 3.13504 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.627 z"
+         id="path59164"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 188.30137,186.56079 v -1.25401 h 1.25402 v 1.25401 z m -3.76204,-3.13503 v -1.25401 h 1.25401 v 1.25401 z m 0,3.13503 v -0.627 h 0.62701 v -0.62701 h 0.627 v -0.62701 h 0.62701 v -0.627 h 0.62701 v -0.62701 h 0.62701 v -0.62701 h 0.627 v -0.627 h 1.25402 v 0.627 h -0.62701 v 0.62701 h -0.62701 v 0.62701 h -0.627 v 0.627 h -0.62701 v 0.62701 h -0.62701 v 0.62701 h -0.62701 v 0.627 z"
+         id="path59166"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 195.19982,184.67977 v -0.627 h -1.25401 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.627 z"
+         id="path59168"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 197.70785,186.56079 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50803 v 0.62701 h 0.627 v 2.50802 h -0.627 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path59170"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 202.0969,186.56079 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 0.627 h -1.25402 v -0.627 h -1.25401 v 1.88102 h 1.25401 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.627 z"
+         id="path59172"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 205.85894,186.56079 v -4.38904 h 1.25402 v 1.25401 h 1.88102 v 0.62701 h 0.627 v 2.50802 h -1.25401 v -2.50802 h -1.25401 v 2.50802 z"
+         id="path59174"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 210.24799,186.56079 v -0.627 h 0.627 v -3.13504 h -0.627 v -0.627 h 1.25401 v 0.627 h 0.62701 v 3.13504 H 211.502 v 0.627 z"
+         id="path59176"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 212.75601,187.81481 v -0.62701 h 0.62701 v 0.62701 z m 0.62701,-0.62701 v -0.62701 h -0.62701 v -0.627 h 1.25402 v 1.25401 z"
+         id="path59178"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 217.77207,186.56079 v -0.627 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38904 h -0.62701 v -0.627 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.627 z"
+         id="path59180"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 225.29615,185.93379 v -1.25402 h -2.50802 v 1.25402 z m 0,-1.88102 v -1.25402 h -2.50802 v 1.25402 z m -3.13503,2.50802 v -0.627 h -0.62701 v -1.25402 h 0.62701 v -0.627 h -0.62701 v -1.25402 h 0.62701 v -0.627 h 3.76204 v 0.627 h 0.62701 v 1.25402 h -0.62701 v 0.627 h 0.62701 v 1.25402 h -0.62701 v 0.627 z"
+         id="path59182"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 230.31359,187.81481 v -0.62701 h 1.88102 v -0.62701 h -1.88102 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 1.88102 v 0.62701 h -1.25402 v 1.88102 h 1.25402 v -1.88102 h 0.627 v -0.62701 h 0.62701 v 3.76204 h -0.62701 v 0.62701 z"
+         id="path59184"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 234.07563,186.56079 v -0.627 h 0.62701 v -2.50803 h 1.25401 v 2.50803 h 0.62701 v 0.627 z m 0.62701,-3.76204 v -0.627 h 1.25401 v 0.627 z"
+         id="path59186"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 238.46468,186.56079 v -0.627 h -0.62701 v -1.25402 h -0.62701 v -1.25401 h 1.25402 v 1.88102 h 1.25401 v -1.88102 h 1.25402 v 1.25401 h -0.62701 v 1.25402 h -0.62701 v 0.627 z"
+         id="path59188"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 244.10774,184.67977 v -0.627 h -1.25402 v 0.627 z m -1.88102,1.88102 v -0.627 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.627 z"
+         id="path59190"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 245.98876,186.56079 v -0.627 h 2.50803 v -0.62701 h -1.88102 v -0.62701 h -0.62701 v -0.627 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50802 v 0.627 h 1.88102 v 0.62701 h 0.627 v 0.62701 h -0.627 v 0.627 z"
+         id="path59192"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 101.1419,193.61635 v -4.38905 h 1.25401 v 1.25402 h 1.88103 v 0.627 h 0.627 v 1.88102 h -0.627 v 0.62701 h -1.88103 v -0.62701 h 1.25402 v -1.88102 h -1.25402 v 1.88102 h -0.627 v 0.62701 z"
+         id="path59194"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 108.03898,191.73533 v -0.62701 h -1.25402 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.627 h 2.50802 v 0.627 h 0.62701 v 1.25402 h -2.50803 v 0.627 h 1.88102 v 0.62701 z"
+         id="path59196"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 111.17401,193.61635 v -0.62701 H 110.547 v -1.88102 h -0.627 v -0.627 h 0.627 v -1.25402 h 1.25402 v 1.25402 h 1.25401 v 0.627 h -1.25401 v 1.88102 h 0.627 v -0.627 h 1.25402 v 0.627 h -0.62701 v 0.62701 z"
+         id="path59198"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 116.19007,192.98934 v -1.88102 h 1.25401 v 1.88102 z m -1.25402,0.62701 v -0.62701 h -0.627 v -2.50802 h 1.25401 v 2.50802 h 0.62701 v 0.62701 z m 2.50803,0 v -0.62701 h 0.62701 v -2.50802 h 1.25401 v 2.50802 h -0.62701 v 0.62701 z"
+         id="path59200"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 122.46151,191.73533 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.627 h 2.50803 v 0.627 h 0.62701 v 1.25402 h -2.50803 v 0.627 h 1.88102 v 0.62701 z"
+         id="path59202"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 126.85056,191.73533 v -0.62701 h -1.25401 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.627 h 2.50803 v 0.627 h 0.627 v 1.25402 h -2.50802 v 0.627 h 1.88102 v 0.62701 z"
+         id="path59204"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 128.73158,193.61635 v -3.13503 h 0.62701 v 0.627 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.627 h 1.88103 v 0.627 h 0.627 v 2.50803 z"
+         id="path59206"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 135.62866,193.61635 v -0.62701 h 1.88102 v -3.13503 h -0.62701 v -0.62701 h 1.88102 v 3.76204 h 1.88102 v 0.62701 z"
+         id="path59208"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 144.40813,193.61635 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.627 h 2.50803 v 0.627 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59210"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 148.17017,193.61635 v -3.13503 h 0.62701 v 0.627 h 0.62701 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25401 v -0.627 h 1.88102 v 0.627 h 0.627 v 2.50803 z"
+         id="path59212"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 153.18623,193.61635 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.627 h 1.88102 v -1.25402 h 1.25401 v 4.38905 h -0.627 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59214"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 163.21834,192.98934 v -1.25401 h -2.50803 v 1.25401 z m 0,-1.88102 v -1.25401 h -2.50803 v 1.25401 z m -3.13504,2.50803 v -0.62701 h -0.627 v -1.25401 h 0.627 v -0.62701 h -0.627 v -1.25401 h 0.627 v -0.62701 h 3.76205 v 0.62701 h 0.627 v 1.25401 h -0.627 v 0.62701 h 0.627 v 1.25401 h -0.627 v 0.62701 z"
+         id="path59216"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 169.48979,192.98934 v -1.88102 h 1.25401 v 1.88102 z m -1.25402,0.62701 v -0.62701 h -0.627 v -2.50802 h 1.25401 v 2.50802 h 0.62701 v 0.62701 z m 2.50803,0 v -0.62701 h 0.62701 v -2.50802 h 1.25401 v 2.50802 h -0.62701 v 0.62701 z"
+         id="path59218"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 173.25321,193.61635 v -0.62701 h 0.627 v -2.50802 h 1.25402 v 2.50802 h 0.627 v 0.62701 z m 0.627,-3.76204 v -0.62701 h 1.25402 v 0.62701 z"
+         id="path59220"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 177.64225,193.61635 v -0.62701 h -0.627 v -1.88102 h -0.62701 v -0.627 h 0.62701 v -1.25402 h 1.25401 v 1.25402 h 1.25401 v 0.627 h -1.25401 v 1.88102 h 0.62701 v -0.627 h 1.25401 v 0.627 h -0.62701 v 0.62701 z"
+         id="path59222"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 180.77728,193.61635 v -4.38905 h 1.25402 v 1.25402 h 1.88102 v 0.627 h 0.62701 v 2.50803 h -1.25402 v -2.50803 h -1.25401 v 2.50803 z"
+         id="path59224"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 187.67436,193.61635 v -0.62701 h 1.88102 v -3.13503 h -0.627 v -0.62701 h 1.88102 v 3.76204 h 1.88102 v 0.62701 z"
+         id="path59226"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 193.3188,193.61635 v -0.62701 h 1.25402 v -0.627 h 0.627 v -0.62701 h 0.62701 v -0.62701 h 0.62701 v -0.627 h 0.62701 v -0.62701 h -2.50803 v 0.62701 h -1.25402 v -0.62701 h 0.62701 v -0.62701 h 3.76204 v 0.62701 h 0.62701 v 0.62701 h -0.62701 v 0.627 h -0.627 v 0.62701 h -0.62701 v 0.62701 h -0.62701 v 0.627 h 1.88102 v -0.627 h 0.62701 v 1.25401 z"
+         id="path59228"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 198.96324,193.61635 v -0.62701 h 1.25402 v 0.62701 z"
+         id="path59230"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 201.47127,193.61635 v -0.62701 h -0.62701 v -0.627 h 1.25402 v 0.627 h 2.50802 v -1.88102 h -3.13503 v -0.627 h -0.62701 v -1.25402 h 5.01606 v 0.62701 h -3.76204 v 0.62701 h 3.13503 v 0.627 h 0.62701 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path59232"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 210.25074,193.61635 v -1.25401 h 1.25402 v 1.25401 z m -3.76204,-3.13503 v -1.25402 h 1.25402 v 1.25402 z m 0,3.13503 v -0.62701 h 0.62701 v -0.627 h 0.62701 v -0.62701 h 0.627 v -0.62701 h 0.62701 v -0.627 h 0.62701 v -0.62701 h 0.627 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.62701 h -0.62701 v 0.627 h -0.627 v 0.62701 h -0.62701 v 0.62701 h -0.62701 v 0.627 h -0.627 v 0.62701 z"
+         id="path59234"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 214.64117,194.87036 v -4.38904 h 0.62701 v 0.627 h 0.627 v 1.88102 h 1.25402 v -1.88102 h -1.25402 v -0.627 h 1.88102 v 0.627 h 0.62701 v 1.88102 h -0.62701 v 0.62701 h -1.88102 v 1.25401 z"
+         id="path59236"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 219.03022,193.61635 v -3.13503 h 0.62701 v 0.627 h 0.62701 v 2.50803 z m 2.50803,-1.88102 v -0.62701 h -1.25401 v -0.627 h 1.88102 v 0.627 h 0.627 v 0.62701 z"
+         id="path59238"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 225.9273,192.98934 v -1.88102 h -1.25402 v 1.88102 z m -1.88103,0.62701 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.627 h 2.50803 v 0.627 h 0.62701 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path59240"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 227.80831,193.61635 v -4.38905 h 1.25402 v 1.25402 h 1.88102 v 0.627 h 0.627 v 1.88102 h -0.627 v 0.62701 h -1.88102 v -0.62701 h 1.25401 v -1.88102 h -1.25401 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path59242"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 232.82437,193.61635 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.627 h 2.50803 v 0.627 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59244"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 236.58642,193.61635 v -4.38905 h 1.25401 v 1.25402 h 1.88102 v 0.627 h 0.62701 v 1.88102 h -0.62701 v 0.62701 h -1.88102 v -0.62701 h 1.25402 v -1.88102 h -1.25402 v 1.88102 h -0.627 v 0.62701 z"
+         id="path59246"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 240.97546,193.61635 v -0.62701 h 0.62701 v -2.50802 h 1.25401 v 2.50802 h 0.62701 v 0.62701 z m 0.62701,-3.76204 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path59248"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 244.1105,193.61635 v -0.62701 h 0.62701 v -3.13503 h -0.62701 v -0.62701 h 1.88102 v 3.76204 h 0.62701 v 0.62701 z"
+         id="path59250"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 247.24552,193.61635 v -0.62701 h 0.62701 v -2.50802 h 1.25401 v 2.50802 h 0.62701 v 0.62701 z m 0.62701,-3.76204 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path59252"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 251.63458,193.61635 v -0.62701 h -0.62701 v -1.88102 h -0.62701 v -0.627 h 0.62701 v -1.25402 h 1.25401 v 1.25402 h 1.25402 v 0.627 h -1.25402 v 1.88102 h 0.62701 v -0.627 h 1.25402 v 0.627 h -0.62701 v 0.62701 z"
+         id="path59254"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 255.39662,194.87036 v -0.627 h 1.88102 v -0.62701 h -1.88102 v -0.62701 h -0.627 v -2.50802 h 1.25401 v 2.50802 h 1.25401 v -2.50802 h 1.25402 v 3.76204 h -0.62701 v 0.627 z"
+         id="path59256"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 154.1295,198.79089 v -0.62701 h -1.25402 v 0.62701 z m -1.88102,1.88102 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.25401 h -2.50803 v 0.62701 h 1.88102 v 0.62701 z"
+         id="path59258"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 156.63752,200.67191 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59260"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 161.02657,200.67191 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 0.62701 h -1.25402 v -0.62701 h -1.25401 v 1.88102 h 1.25401 v -0.62701 h 1.25402 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path59262"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 164.78861,200.67191 v -4.38905 h 1.25402 v 1.25401 h 1.88102 v 0.62701 h 0.62701 v 2.50803 h -1.25402 v -2.50803 h -1.25401 v 2.50803 z"
+         id="path59264"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 169.17766,201.92592 v -0.62701 h 0.62701 v 0.62701 z m 0.62701,-0.62701 v -0.627 h -0.62701 v -0.62701 h 1.25402 v 1.25401 z"
+         id="path59266"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 174.19372,200.67191 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 2.50803 h -0.62701 v -0.62701 h -0.627 v -1.88102 h -1.25402 v 1.88102 h 1.25402 v 0.62701 z"
+         id="path59268"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 177.95576,200.67191 v -3.13504 h 0.62701 v 0.62701 h 0.627 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25402 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path59270"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 182.97181,200.67191 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 1.88102 v -1.25401 h 1.25402 v 4.38905 h -0.62701 v -0.62701 h -0.62701 v -1.88102 h -1.25401 v 1.88102 h 1.25401 v 0.62701 z"
+         id="path59272"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 189.24188,200.67191 v -0.62701 h 2.50803 v -0.62701 h -1.88102 v -0.627 h -0.62701 v -0.62701 h 0.62701 v -0.62701 h 3.13503 v 0.62701 h -2.50803 v 0.62701 h 1.88102 v 0.627 h 0.62701 v 0.62701 h -0.62701 v 0.62701 z"
+         id="path59274"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 196.13896,200.0449 v -1.88102 h -1.25402 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.62701 v -1.88102 h 0.62701 v -0.62701 h 2.50802 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path59276"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 203.03603,200.0449 v -1.88102 h -1.25401 v 1.88102 z m -1.88102,0.62701 v -0.62701 h -0.627 v -1.88102 h 0.627 v -0.62701 h 2.50803 v 0.62701 h 0.62701 v 1.88102 h -0.62701 v 0.62701 z"
+         id="path59278"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 204.91705,200.67191 v -3.13504 h 0.62701 v 0.62701 h 0.62701 v 2.50803 z m 2.50803,0 v -2.50803 h -1.25401 v -0.62701 h 1.88102 v 0.62701 h 0.62701 v 2.50803 z"
+         id="path59280"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+      <path
+         d="m 209.3061,200.67191 v -0.62701 h 1.25401 v 0.62701 z"
+         id="path59282"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.438;fill:#ffffff;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>

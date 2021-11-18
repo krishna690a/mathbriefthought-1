@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="407.19583mm"
+   height="269.83182mm"
+   viewBox="0 0 407.19583 269.83182"
+   version="1.1"
+   id="svg1098"
+   inkscape:version="1.2-dev (a2923e6, 2021-11-06)"
+   sodipodi:docname="mat13.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1100"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:blackoutopacity="0.0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50276"
+     inkscape:cx="721.01997"
+     inkscape:cy="527.09046"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs1095">
+    <rect
+       x="724.00349"
+       y="149.17654"
+       width="917.933"
+       height="798.59177"
+       id="rect10820" />
+    <rect
+       x="779.69606"
+       y="141.22046"
+       width="166.82911"
+       height="100.44554"
+       id="rect6480" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect172339"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.8968526,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.9295944,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.8140535,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect165135"
+       is_visible="true"
+       lpeversion="1"
+       switcher_size="15"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="inkscape_1.0_and_up"
+       both="false"
+       inverse_width="false"
+       add_other_stroke_width="inkscape_1.0_and_up"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect81077"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect81071"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient60305">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0"
+         id="stop60301" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop60303" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient42271">
+      <stop
+         style="stop-color:#8787de;stop-opacity:1"
+         offset="0"
+         id="stop42267" />
+      <stop
+         style="stop-color:#d5d5ff;stop-opacity:0;"
+         offset="1"
+         id="stop42269" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect41991"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect23639"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8526"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,9.1763832,0,1 @ F,0,0,1,0,20.922481,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7226"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,9.1763832,0,1 @ F,0,0,1,0,20.922481,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient42271"
+       id="linearGradient42273"
+       x1="203.44847"
+       y1="224.49142"
+       x2="203.44847"
+       y2="99.454414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6102934,0,0,1.6661568,-123.55936,-99.431501)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60305"
+       id="linearGradient60307"
+       x1="188.15683"
+       y1="198.81862"
+       x2="188.15683"
+       y2="100.91885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1324438,0,0,2.1825826,-222.16632,-170.10565)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(23.61437,-17.74124)">
+    <path
+       id="path41987"
+       style="fill:url(#linearGradient42273);fill-opacity:1;stroke-width:32.4354;stop-color:#000000"
+       d="M 180.02501,36.054379 C 143.3864,36.578517 106.90869,40.58868 70.588884,45.427499 59.580511,48.049694 51.29858,59.34382 51.617337,70.99506 c -3.688827,49.38845 -4.549481,98.95252 -5.48833,148.47033 0.524441,11.95956 5.936426,23.95524 14.711237,31.85099 3.057278,2.8506 6.689582,4.86349 10.574865,6.3759 5.174171,1.99017 10.541782,3.45121 15.864219,5.1281 25.591752,7.3974 52.156422,10.98131 78.684952,12.13079 29.43645,1.25237 58.93996,-0.92688 87.7559,-7.39037 12.76307,-2.93559 25.48232,-6.5122 37.72162,-11.48307 6.11305,-2.67079 11.264,-7.32936 15.05729,-12.84391 3.94432,-5.70362 6.67587,-12.14353 7.84194,-19.07793 1.14673,-8.09341 0.14218,-16.32438 0.22043,-24.51531 -0.90508,-43.93071 -1.8514,-87.90413 -6.45779,-131.609713 C 305.63174,56.47304 295.45125,47.281745 284.08598,46.147945 249.7785,39.395135 214.97282,35.705726 180.02501,36.054379 Z" />
+    <path
+       style="fill:#22222e;fill-opacity:1;stroke-width:38.3195;stop-color:#000000"
+       d="M 54.226926,30.457531 C 146.47677,19.068741 210.30728,13.217299 306.21141,32.64682 c 10.31047,2.088834 19.6287,12.75396 20.65581,23.572966 5.60388,59.029644 6.45158,115.934174 7.47655,172.917884 0.29323,16.30311 -10.82179,35.59969 -25.58243,41.291 -87.788,33.84866 -196.52886,23.73716 -256.909136,0.68238 C 37.088378,265.47383 26.429906,245.4434 26.818056,229.14152 28.19586,171.27613 28.783935,114.32339 33.661079,52.413999 34.514581,41.579699 43.794173,31.745514 54.226926,30.457531 Z"
+       id="path21207"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect59709"
+       style="fill:url(#linearGradient60307);fill-opacity:1;stroke-width:41.7127;stop-color:#000000"
+       d="M 78.720671,41.634687 C 73.097437,41.776338 67.441201,41.333819 61.840185,41.916044 53.560026,43.48757 47.127646,52.012127 48.045438,60.6402 c -0.101637,62.58679 -0.05291,125.17751 0.0017,187.76189 0.135838,9.35357 8.891958,17.34596 17.958625,16.65586 39.674637,-0.0362 79.353547,0.052 119.029887,0.0197 37.0014,-0.0352 74.0046,0.0135 111.0049,-0.0752 9.50723,0.30271 17.80725,-9.17502 16.84426,-18.78017 0.004,-62.93071 0.11436,-125.86467 -0.0458,-188.793409 C 312.16463,48.289293 303.41343,40.745302 294.49084,41.65603 222.56721,41.59274 150.64364,41.62067 78.72,41.6342 Z" />
+    <rect
+       style="fill:#101013;fill-opacity:1;stroke-width:41.7127;stop-color:#000000"
+       id="rect40944"
+       width="255.89325"
+       height="214.20525"
+       x="52.5126"
+       y="46.243919"
+       ry="12.923609" />
+    <path
+       id="path101724"
+       style="fill:#2b2b3b;fill-opacity:1;stroke-width:38.3195;stop-color:#000000"
+       d="M 186.27908,19.580941 C 144.24283,19.54544 103.25641,24.032276 54.248677,30.08257 43.815924,31.370551 34.535738,41.204641 33.682222,52.038946 28.805073,113.94836 28.217648,170.90182 26.839846,228.76721 c -0.02727,1.14406 0.0054,2.30736 0.08455,3.48188 1.316003,-56.55783 1.987826,-112.3714 6.757838,-172.920847 0.853519,-10.834305 10.1337,-20.668395 20.566452,-21.956381 92.249844,-11.38879 156.080224,-17.240493 251.984354,2.189028 10.31046,2.08883 19.62881,12.754724 20.65588,23.573735 5.46584,57.574825 6.40672,113.127705 7.40082,168.704535 0.0684,-1.03446 0.0939,-2.06076 0.0757,-3.07603 -1.02498,-56.9837 -1.8726,-113.88817 -7.47654,-172.917798 C 325.86182,45.026309 316.54347,34.361443 306.23299,32.272612 261.27797,23.165024 223.36984,19.612258 186.27903,19.580941 Z" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-130.97176,39.130007)"
+       id="text10818"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect10820);fill:#ffffff"><tspan
+         x="724.00391"
+         y="168.43501"
+         id="tspan86353">In base 2, q can be written as: q = sum_(i&gt;=1) (qi/2i) where </tspan><tspan
+         x="724.00391"
+         y="195.10164"
+         id="tspan86355">each qi is either 0 and 1. This sum can be either finite or </tspan><tspan
+         x="724.00391"
+         y="221.76826"
+         id="tspan86357">infinite as per the case may be.
+</tspan><tspan
+         x="724.00391"
+         y="248.43489"
+         id="tspan86359">
+</tspan><tspan
+         x="724.00391"
+         y="275.10151"
+         id="tspan86361">For example, 
+</tspan><tspan
+         x="724.00391"
+         y="301.76814"
+         id="tspan86363">q = (1/16)_{10} = 0.062510 = (0.0001)_2 = ((1/2^4)_{10})
+</tspan><tspan
+         x="724.00391"
+         y="328.43477"
+         id="tspan86365">
+</tspan><tspan
+         x="724.00391"
+         y="355.10139"
+         id="tspan86367">Now that we have an unbiased coin, we can use the following </tspan><tspan
+         x="724.00391"
+         y="381.76802"
+         id="tspan86369">steps to simulate a biased coin with probability of heads </tspan><tspan
+         x="724.00391"
+         y="408.43464"
+         id="tspan86371">being q.
+</tspan><tspan
+         x="724.00391"
+         y="435.10127"
+         id="tspan86373">
+</tspan><tspan
+         x="724.00391"
+         y="461.7679"
+         id="tspan86375">
+</tspan><tspan
+         x="724.00391"
+         y="488.43452"
+         id="tspan86377">Consider this event: Flip the unbiased coin till you record a </tspan><tspan
+         x="724.00391"
+         y="515.10115"
+         id="tspan86379">Heads for the first time. The heads may come up on the 1st </tspan><tspan
+         x="724.00391"
+         y="541.76777"
+         id="tspan86381">flip, or on the 2nd flip, etc. Say the heads come at the nth </tspan><tspan
+         x="724.00391"
+         y="568.4344"
+         id="tspan86383">flip. Since the coin is unbiased, the probability of Heads and </tspan><tspan
+         x="724.00391"
+         y="595.10103"
+         id="tspan86385">Tails coming up is equally likely.
+</tspan><tspan
+         x="724.00391"
+         y="621.76765"
+         id="tspan86387">
+</tspan><tspan
+         x="724.00391"
+         y="648.43428"
+         id="tspan86389">Let E_i be the event that you get your first Heads at the </tspan><tspan
+         x="724.00391"
+         y="675.1009"
+         id="tspan86391">ith successive flip of the unbiased coin.
+</tspan><tspan
+         x="724.00391"
+         y="701.76753"
+         id="tspan86393">Now P(E_i)= 1/2^i (Since, you need (i-1) Tails, and then </tspan><tspan
+         x="724.00391"
+         y="728.43416"
+         id="tspan86397">Heads at the i<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan86395">th</tspan> flip!)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy Bold';writing-mode:lr-tb;fill:#ffffff;stroke-width:19.802;stop-color:#000000"
+       x="148.47023"
+       y="69.563408"
+       id="text58751"><tspan
+         sodipodi:role="line"
+         id="tspan58749"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Super Legend Boy';-inkscape-font-specification:'Super Legend Boy Bold';writing-mode:lr-tb;fill:#ffffff;stroke-width:19.802"
+         x="148.47023"
+         y="69.563408">SOLUTION</tspan></text>
+    <a
+       id="a46564"
+       href="mat14.svg"
+       transform="translate(-31.840363,5.1131104)">
+      <rect
+         style="fill:#101013;fill-opacity:1;stroke-width:19.802;stop-color:#000000"
+         id="rect81478"
+         width="12.516129"
+         height="10.708848"
+         x="300.33835"
+         y="231.53893"
+         ry="5.354424" />
+      <path
+         id="path191755-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.01999;stroke-opacity:1;stop-color:#000000"
+         d="M 1121.1055 833.26953 L 1121.1055 837.8418 L 1136.3301 845.36914 C 1136.3301 845.36914 1128.0369 849.86952 1121.1055 853.39844 L 1121.1055 857.4668 C 1121.0904 858.6646 1145.5781 845.36914 1145.5781 845.36914 L 1121.1055 833.26953 z "
+         transform="matrix(0.26458333,0,0,0.26458333,8.225993,12.62813)" />
+    </a>
+    <a
+       id="a79257"
+       href="mat13.svg"
+       transform="translate(-34.287515,5.1131104)" />
+  </g>
+</svg>
